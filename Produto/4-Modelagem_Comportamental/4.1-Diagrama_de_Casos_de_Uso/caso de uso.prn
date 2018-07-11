@@ -1,0 +1,3752 @@
+%!PS-Adobe-3.0
+%cupsJobTicket: media=A4
+%cupsJobTicket: sides=one-sided
+%cupsJobTicket: AP_D_InputSlot=
+%%Creator: Wine PostScript Driver
+%%Title: ea-eits-desafio
+%%BoundingBox: 18 18 576 823
+%%Pages: (atend)
+%%Orientation: Portrait
+%%EndComments
+%%BeginProlog
+/tmpmtrx matrix def
+/hatch {
+  pathbbox
+  /b exch def /r exch def /t exch def /l exch def /gap 32 def
+  l cvi gap idiv gap mul
+  gap
+  r cvi gap idiv gap mul
+  {t moveto 0 b t sub rlineto}
+  for
+} bind def
+/B {pop pop pop pop} def
+/N {newpath} def
+/havetype42gdir {version cvi 2015 ge} bind def
+%%EndProlog
+%%BeginSetup
+mark {
+%%BeginFeature: *PageSize A4
+<</PageSize[595 842]/ImagingBBox null>>setpagedevice
+%%EndFeature
+} stopped cleartomark
+mark {
+%%BeginFeature: *Duplex None
+<</Duplex false>>setpagedevice
+%%EndFeature
+} stopped cleartomark
+%%EndSetup
+%%Page: 1 1
+%%BeginPageSetup
+/pgsave save def
+72 300 div 72 300 div scale
+75 3433 translate
+1 -1 scale
+0 rotate
+%%EndPageSetup
+0.00 0.00 0.00 setrgbcolor
+0 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+0 0 moveto
+2328 0 rlineto
+0 3354 rlineto
+-2328 0 rlineto
+closepath
+gsave
+1.00 1.00 1.00 setrgbcolor
+fill
+grestore
+stroke
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+1260 1353 moveto
+1260 2250 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+1260 2250 moveto
+2700 2250 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+2700 2250 moveto
+2700 1353 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+2700 1353 moveto
+1260 1353 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+25 dict begin
+ /FontName /LiberationSans def
+ /Encoding 256 array 0 1 255{1 index exch /.notdef put} for def
+ /PaintType 0 def
+ /FontMatrix [1 2048 div 0 0 1 2048 div 0 0] def
+ /FontBBox [-1114 -621 2666 2007] def
+ /FontType 1 def
+ /Private 7 dict begin
+  /RD {string currentfile exch readhexstring pop} def
+  /ND {def} def
+  /NP {put} def
+  /MinFeature {16 16} def
+  /BlueValues [] def
+  /password 5839 def
+  /lenIV -1 def
+ currentdict end def
+ currentdict dup /Private get begin
+  /CharStrings 256 dict begin
+   /.notdef 4 RD 8b8b0d0e ND
+  currentdict end put
+ end
+currentdict end dup /FontName get exch definefont pop
+/LiberationSans findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1926 1392 moveto
+%%glyph 0036
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/S 267 RD
+e8ff000005560dff0000049bf819158b
+fb1658262644082544fb2368fb4d8a08
+fbeb8cfb5bf70a54f78308f74db005a0
+36b94dd06408d063ea77f70b8b08f70f
+8beba0ceb608ceb5acc98bdd088bb981
+b076a80876a86da2659e08659e5e9a56
+9808569851984b9a08fb03a436a352a4
+0851a45da66aaa086aa971ae7ab40879
+b482b98bc0088bf70db9e8e8cc08e7cc
+f718acf7408b08f7348bf70e73e05a08
+e05ac637adfb0a08fb506a0576d664c1
+51ad0851ac3b9c248b08fb058b357850
+660850666d538b41088b609767a26f08
+a26eac73b67808b677e273f7156e08b6
+81b781b68108b680b47fb27d08b27cb0
+7aae7808ad78a973a46f08a46f9f6a9a
+65089965925e8b5808090e
+ND
+end end
+/S glyphshow
+%%glyph 004c
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/i 47 RD
+f71df85b0d8bff00000520158bf74005
+f7488b058bfb400509fb48fffffffae0
+158bface05f7488b058bfece05090e
+ND
+end end
+/i glyphshow
+%%glyph 0056
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/s 224 RD
+c4fa940dfa11f7bf158b25653c3e5408
+3e54fb0070fb1f8a08fb1b8c24a042b8
+0842b75bd075e908f733aa059a51ab61
+bb7008bb70ce7de08b08e68bce99b6a7
+08b5a7a0b58bc3088bb67cad6ea6086e
+a65ba14a9c08fb15ad0524a641a560a5
+085fa469aa72b00872b07fb88bc0088b
+eeaed6d2bf08d1bef1a5f71b8b08f70b
+8bea76d26108d161b7489e2e08fb3677
+0581bb70b060a5085fa45098428b083a
+8b4f7f647208647278668b59088b6c93
+729b77089b77a37aaa7d08aa7dcd78f0
+7208ea73d075b57708b576ac75a47208
+a3729e6f986b08986a92668b6208090e
+ND
+end end
+/s glyphshow
+%%glyph 0057
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/t 91 RD
+aaf8cd0df89f9315507c4e834d8a08fb
+248c43dc8bf737088bf96605fb118b05
+8bf71705f7188b05c0f78605f70c8b05
+8bfb8605f75c8b058bfb1705fb5c8b05
+8bfd3f058b5794679c76089c76a880b5
+8b08a38bae90b89408090e
+ND
+end end
+/t glyphshow
+%%glyph 0048
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/e 142 RD
+e2ff000004730df751f88b158bfb10a5
+2bbe4808be48d669ee8b08d98bca9bba
+aa08baaaaab39cbb08f7325e054afb3f
+fb2737fb798a08fb348cfb0eba38ea08
+37ea61f7228bf750088bf747b5f71ddf
+ea08deeaf70cbbf72f8b08f7d28bf733
+fb548bfc13088b730509fb4ef71e1581
+f7066ede5bc0085bbf46a5318b08348b
+466e58510858506f3b872508090e
+ND
+end end
+/e glyphshow
+%%glyph 0050
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/m 199 RD
+f71cff000006aa0df90c8b158bf94205
+8bf47dd36eb3086eb3589f408b083e8b
+4f6e5e50085e5075398b20088bfd0705
+fb478b058bf9e7058bf71289d887a708
+f73e8b058c888b828c7c088c7c8c7b8c
+78088c788c678c56088e8b05b2d8b7c0
+bda908bda9c89ad38b08dd8bcc7bbb6a
+08ba6aac579e44088e8b05b0d4b9bfc0
+ab08c0abcb9bd68b08f7018bdb6dbd50
+08bc50a4298bfb1b088bfd6505fb468b
+058bf942058bf47dd36eb3086eb3589f
+408b083c8b4e6e6051085f5075388b20
+088bfd0705090e
+ND
+end end
+/m glyphshow
+%%glyph 0044
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/a 245 RD
+e2ff000004730df7db7715fb018c3aa7
+54c40854c470da8bef088bf704b0e1d5
+c708d4c7f70babf7388f08f7878f058b
+c6058be378ca66b10866b1509e3b8b08
+3a8b517d6670086670755f844f08fb50
+9c05aaf757f724ecf7978b08f71c8bf1
+6cd04d08d04cad318bfb0a088bfc6605
+8b5692639970089970a67db28b089c8b
+9f8da190088bfb04055e815c865c8a08
+488c5b9c6dae086cae7ac187d608858b
+055d3856514e69084e69407a348a0809
+b4f71b15cd8bc69abea908bea9b4b4a9
+c008a8bf9ac18bc2088be405fb598705
+368a4b82607b085f7b6972746a08746a
+7f5f8b55088b509b5eab6b08aa6bb87b
+c68b08090e
+ND
+end end
+/a glyphshow
+grestore
+%Ellipse
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+2119 2070 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+2113 2064 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.70 0.84 1.00 setrgbcolor
+fill
+grestore
+stroke
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+2113 2064 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+25 dict begin
+ /FontName /LiberationSans-Bold def
+ /Encoding 256 array 0 1 255{1 index exch /.notdef put} for def
+ /PaintType 0 def
+ /FontMatrix [1 2048 div 0 0 1 2048 div 0 0] def
+ /FontBBox [-987 -771 2671 2116] def
+ /FontType 1 def
+ /Private 7 dict begin
+  /RD {string currentfile exch readhexstring pop} def
+  /ND {def} def
+  /NP {put} def
+  /MinFeature {16 16} def
+  /BlueValues [] def
+  /password 5839 def
+  /lenIV -1 def
+ currentdict end def
+ currentdict dup /Private get begin
+  /CharStrings 256 dict begin
+   /.notdef 4 RD 8b8b0d0e ND
+  currentdict end put
+ end
+currentdict end dup /FontName get exch definefont pop
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1980 2058 moveto
+%%glyph 0026
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/C 158 RD
+dfff000005c70df95bf76815f7468bf7
+10e4d0f74708f7952a0554fb1c3a2620
+49082048fb156bfb298a08fb778cfb43
+cafb0ff71508fb10f7144df7478bf77b
+088bf77bc7f746f70bf71008f70bf710
+f741c9f7778b08f7398bf71b6af34908
+f348d42ab5fb1508fb98440575d260c3
+4bb5084ab43fa0348b08fb198b266246
+3808463868fb0d8bfb33088bfb36affb
+10d23608d236f160f71a8b08090e
+ND
+end end
+/C glyphshow
+%%glyph 0052
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/o 141 RD
+dbff000004e30dfad7f8b2158bfb435a
+fb1e2a28082a27fb1b5afb408a08fb3d
+8cfb18bc2bef082bef5bf71d8bf74308
+8bf742bbf71debef08ebeef71abdf741
+8b08f7458bf71b5be82b08e82ab9fb1e
+8bfb490809fbba8b158bf71576e861c5
+0861c54ea83b8b08fb3f8b36fb0e8bfb
+89088bfb0da030b54c08b44cc76bda8b
+08f7418be1f70f8bf78b08090e
+ND
+end end
+/o glyphshow
+%%glyph 0051
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/n 122 RD
+f71bff000004e30df9598b158bf8f305
+8bf7524beafb158b08478b546e625108
+615076408b30088bfcd805fbad8b058b
+f9dc058bc58abb8ab00889b089ac89a8
+08f7a08b058d7e8e6a8e54088e548d65
+8b76088f8b05b1debbc7c4b008c4b0d0
+9eda8b08f7078be368c84408c844aa24
+8bfb1c088bfd4305090e
+ND
+end end
+/n glyphshow
+%%glyph 0056
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/s 219 RD
+d3ff000004730dfa6bf7d0158b226039
+365008354ffb0b6efb2b8a08fb298cfb
+05a23cba083cba56d471ee08f78bb005
+9958a366ae7608ad76c780e08b08da8b
+c495af9f08af9f9daa8bb6088bae7da6
+6ea0086e9f599c469908fb33aa20a954
+a60854a661ae6eb6086eb67cbf8bca08
+8bf2b3dcdbc508dac4f705a8f7268b08
+f7158bf272da5908d959bc439e2c08fb
+8d710583b777ac6ca1086ca05996478b
+08488b59836a7a086a7a7a6e8b63088b
+6c9872a57908a478b67cc87f08e07ad6
+79cd7908cc78c075b37208b272ab6aa3
+6408a26397588b4d08090e
+ND
+end end
+/s glyphshow
+%%glyph 0058
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/u 109 RD
+f713ff000004e30df7adface158bfcf3
+058bfb52cb2cf7148b08cf8bc2a8b5c6
+08b4c5a0d68be6088bf8d805f7ad8b05
+8bfddc058b2f8e3a904608fba08b0583
+eb87d38bba08868b0566395b4f526608
+516646793c8a08fb078c33ad4ed2084e
+d16cf28bf71c088bf94305090e
+ND
+end end
+/u glyphshow
+%%glyph 004f
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/l 28 RD
+f723f8cd0d8b8b158bff000005cc05f7
+ad8b058bfffffffa3405090e
+ND
+end end
+/l glyphshow
+%%glyph 0057
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/t 100 RD
+a4f93e0df81f7915388c4ca15eb8085e
+b875cf8be6088bf91205fb1d8b058bf7
+5205f72b8b05e3f79205f7448b058bfb
+9205f7618b058bfb5205fb618b058bfc
+c6058b5695659f72089f72aa7eb58b08
+a18baa90b494088bfb420546753c8032
+8a08090e
+ND
+end end
+/t glyphshow
+%%glyph 0044
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/a 263 RD
+c7ff000004730df7e17715228c3aa750
+c40850c46edb8bf2088bf704b0e0d4c6
+08d4c6f4a9f71f8c08f77d8f058bc205
+8bd27fbf72ae0872ad639c538b08578b
+657f73740872737c64855408fbb99905
+9df4bbdbdac208d9c1f6a6f71b8b08f7
+1d8bf469d54808d548b02b8bfb10088b
+fc1e058b4e92629974089874a27fab8b
+08a08ba08d9f8f088bfb2c057a877c87
+7e88087e887d897e89087e897d897c8a
+087c8a798a778a08448c579b6aae0869
+ae77be84ce08858b053cfb22fb0a45fb
+338a0809f7dbf89d15fb2489054a885c
+84708008707f76797d73087c73846b8b
+63088b589765a37208a272ab7eb28b08
+b78bb397b0a308afa3a7aca0b608a0b5
+95b88bba08090e
+ND
+end end
+/a glyphshow
+%%glyph 0003
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/space 5 RD
+8bf8cd0d0e
+ND
+end end
+/space glyphshow
+/s glyphshow
+%%glyph 004c
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/i 47 RD
+f723f8cd0d8bff000004fd158bf76305
+f7ad8b058bfb630509fbadfffffffb03
+158bface05f7ad8b058bfece05090e
+ND
+end end
+/i glyphshow
+/t glyphshow
+/u glyphshow
+/a glyphshow
+%%glyph 00a9
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/ccedilla 233 RD
+dbff000004730df8967715fb388cfb13
+bb32ed0832ec5ef71c8bf743088bf747
+b8f71fe5ef08e5eef714bdf7398b08f7
+138bf56bde4b08de4bc033a0fb0508fb
+af7d0583c277b86bac086bac5e9b508b
+08fb258b43fb0d8bfb86088bfb8dd5fb
+11f7278b08c08bb89cafad08afaca1bd
+94ce08f7ae7e05814171496051086051
+525e456c08456c3c7b348a0809f759fb
+6b158b4d715c576b08576b407b298a08
+6d8c698d668e088bf70a05a287a789ac
+8a08e68cb9a28bb8088ba3829d789608
+78966c915f8a08728c798a828908c9f7
+4005f7238b056a3905ca88b97caa7008
+a9709a678b5e08090e
+ND
+end end
+/ccedilla glyphshow
+%%glyph 00a5
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/atilde 395 RD
+c7ff000004730df7d97715228c3aa750
+c40850c46edb8bf2088bf704b0e0d4c6
+08d4c6f4a9f71f8c08f77d8f058bc205
+8bd27fbf72ae0872ad639c538b08578b
+657f73740872737c64855408fbb99905
+9df4bbdbdac208d9c1f6a6f71b8b08f7
+1d8bf469d54808d548b02b8bfb10088b
+fc1e058b4e92629974089874a27fab8b
+08a08ba08d9f8f088bfb2c057a877c87
+7e88087e887d897e89087e897d897c8a
+087c8a798a778a08448c579b6aae0869
+ae77be84ce08858b053cfb22fb0a45fb
+338a0809f7dbf89d15fb2489054a885c
+84708008707f76797d73087c73846b8b
+63088b589765a37208a272ab7eb28b08
+b78bb397b0a308afa3a7aca0b608a0b5
+95b88bba080992f975156e8b6d916e98
+086d986e996f9b086f9a719972980872
+987491778b08708b76837d7c087c7c7f
+69825808fb1d8b0590d696c49cb1089b
+b0a2a9aaa208aaa1b396be8b08a98ba9
+85a97e08a97ea87da77c08a77ba57da4
+7e08a37ea1859e8b08a68ba0939a9c08
+9a9b97ac94bc08f71b8b058622764066
+5e08655e5674468b08090e
+ND
+end end
+/atilde glyphshow
+/o glyphshow
+/space glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+2004 2091 moveto
+%%glyph 0047
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/d 178 RD
+dfff000004e30df98c8b15889588a488
+b40887b389ac8ba608878b054efb17fb
+074bfb3e8a08fb128c2abb46ee0846ed
+69f71d8bf745088bf747aff71fd4ed08
+d3ecf1bcf7198b08d88bcd7bc36b08c2
+6bb65ba94c088d8b0589f746058bf81f
+05f7ad8b058bfffffffb20058b488e3d
+90300809fbb1f8b7158bf70978e564ca
+0864ca51aa3f8b08408b536d664e0866
+4e792d8bfb11088bfb89d5fb0ff7278b
+08d58bc4acb4cc08b4cc9fe78bf70c08
+090e
+ND
+end end
+/d glyphshow
+/a glyphshow
+/space glyphshow
+%%glyph 0050
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/m 182 RD
+f71bff0000071d0df9198b158bf8f305
+8bf75254eafb018b08528b5d6e685108
+675179408b2f088bfcd805fbad8b058b
+f9dc058bc58abb8ab00889b089ac89a8
+08f7a08b058d7e8e6a8e54088e548d65
+8b76088f8b05aedeb6c7bfb008beb0c9
+9ed38b08f7398bf03caefb3108918b05
+b0dfb7c7beb008beb0cd9dda8b08f48b
+dc67c24408c243a7248bfb1a088bfd43
+05fbab8b058bf8f3058bf75254eafb01
+8b08548b5f7168560868567741882e08
+8bfce505090e
+ND
+end end
+/m glyphshow
+/a glyphshow
+/n glyphshow
+/u glyphshow
+/t glyphshow
+%%glyph 0048
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/e 146 RD
+dbff000004730df88e7715fb378cfb11
+ba34ec0834eb5ff7208bf74d088bf747
+b7f71de4eb08e4ebf711bbf7378b08f7
+2f8bf70b58dd2408dd24b4fb2b8bfb5b
+088b8305fd4a8b058b229f3bb25608b2
+55c270d38b08ee8bcab6a5e108f79d74
+053efb58fb2f2afb7f8a08098bfa4515
+498b5874685d08675d784b893808f838
+8b0586e276cd66b70866b65aa14d8b08
+090e
+ND
+end end
+/e glyphshow
+/n glyphshow
+/ccedilla glyphshow
+/atilde glyphshow
+/o glyphshow
+grestore
+%Ellipse
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+2221 1770 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+2215 1764 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.70 0.84 1.00 setrgbcolor
+fill
+grestore
+stroke
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+2215 1764 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+2079 1758 moveto
+/C glyphshow
+/o glyphshow
+/n glyphshow
+/s glyphshow
+/u glyphshow
+/l glyphshow
+/t glyphshow
+/a glyphshow
+/space glyphshow
+%%glyph 004b
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/h 110 RD
+f723ff000004e30df7a9f9f615b1debb
+c7c4b008c4b0d09eda8b08f7078be368
+c84408c844aa248bfb1c088bfd4205fb
+ac8b058bf8f2058bf7524beafb158b08
+478b546e625108615076408b30088bfc
+d705fbad8b058bff000005cc05f7ad8b
+058bfc29058b428844864608090e
+ND
+end end
+/h glyphshow
+/i glyphshow
+/s glyphshow
+/t glyphshow
+%%glyph 00b5
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/oacute 167 RD
+dbff000004e30dfad7f8b2158bfb435a
+fb1e2a28082a27fb1b5afb408a08fb3d
+8cfb18bc2bef082bef5bf71d8bf74308
+8bf742bbf71debef08ebeef71abdf741
+8b08f7458bf71b5be82b08e82ab9fb1e
+8bfb490809fbba8b158bf71576e861c5
+0861c54ea83b8b08fb3f8b36fb0e8bfb
+89088bfb0da030b54c08b44cc76bda8b
+08f7418be1f70f8bf78b0809fc30f915
+158baa05f790f7b405f7968b058b6005
+fbe8fba805090e
+ND
+end end
+/oacute glyphshow
+%%glyph 0055
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/r 107 RD
+f71bf9b10d938b158bf9d0058bc68abd
+8ab30889b289ae89aa08f7a08b058d7f
+8e678e4e088e4e8d628b77088f8b05a6
+d7a4c1a0aa08a0aaa5a2a89a08a89ab0
+92b78b08af8ba886a181088bfb7f055e
+956390688b08458b556f645208645277
+378bfb03088bfca705090e
+ND
+end end
+/r glyphshow
+/i glyphshow
+%%glyph 0046
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/c 142 RD
+dbff000004730df8967715fb388cfb13
+bb32ed0832ec5ef71c8bf743088bf747
+b8f71fe5ef08e5eef714bdf7398b08f7
+138bf56bde4b08de4bc033a0fb0508fb
+af7d0583c277b86bac086bac5e9b508b
+08fb258b43fb0d8bfb86088bfb8dd5fb
+11f7278b08c08bb89cafad08afaca1bd
+94ce08f7ae7e05814171496051086051
+525e456c08456c3c7b348a08090e
+ND
+end end
+/c glyphshow
+/o glyphshow
+/space glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+2097 1791 moveto
+/d glyphshow
+/e glyphshow
+/space glyphshow
+/m glyphshow
+/a glyphshow
+/n glyphshow
+/u glyphshow
+/t glyphshow
+/e glyphshow
+/n glyphshow
+/ccedilla glyphshow
+%%glyph 00b7
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/otilde 273 RD
+dbff000004e30dfad7f8b2158bfb435a
+fb1e2a28082a27fb1b5afb408a08fb3d
+8cfb18bc2bef082bef5bf71d8bf74308
+8bf742bbf71debef08ebeef71abdf741
+8b08f7458bf71b5be82b08e82ab9fb1e
+8bfb490809fbba8b158bf71576e861c5
+0861c54ea83b8b08fb3f8b36fb0e8bfb
+89088bfb0da030b54c08b44cc76bda8b
+08f7418be1f70f8bf78b080935f91515
+6e8b6d916e98086d986e996f9b086f9a
+719972980872987491778b08708b7683
+7d7c087c7c7f69825808fb1d8b0590d6
+96c49cb1089bb0a2a9aaa208aaa1b396
+be8b08a98ba985a97e08a97ea87da77c
+08a77ba57da47e08a37ea1859e8b08a6
+8ba0939a9c089a9b97ac94bc08f71b8b
+0586227640665e08655e5674468b0809
+0e
+ND
+end end
+/otilde glyphshow
+/e glyphshow
+/s glyphshow
+grestore
+%Ellipse
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+1870 1842 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+1864 1836 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.70 0.84 1.00 setrgbcolor
+fill
+grestore
+stroke
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+1864 1836 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1791 1812 moveto
+/r glyphshow
+/e glyphshow
+%%glyph 004a
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/g 230 RD
+dfff000004e30df894fc4615fb188c21
+a43bbd083abe5ad278e808f7adac0595
+60a16aac7208ac72b67fc08a08d98cc4
+a3afbb08afbb9dd28be9088bc4058df6
+05898b054dfb19fb0849fb3e8b08fb12
+8b29ba46ea0846ea68f71b8bf744088b
+f745aff71cd2eb08d2ebf3bbf71c8b08
+f7318bf7014ac8fb1608908b058ba28d
+ab8eb3088eb38ea58e9808f79e8b0587
+4389388b2c088bfdb3058bfb2d5ffb08
+343c08343cfb1364fb3b8a0809f77ffa
+72158bf70377e264ca0863c952aa428b
+08fb2a8b40fb0c8bfb84088bfb7fd5fb
+0af7298b08d68bc4aab3ca08b2c99fe3
+8bf70708090e
+ND
+end end
+/g glyphshow
+/i glyphshow
+/s glyphshow
+/t glyphshow
+/r glyphshow
+/a glyphshow
+/space glyphshow
+/o glyphshow
+/space glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1719 1845 moveto
+%%glyph 0053
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/p 181 RD
+f71bff000004e30dfa9cf8b6158bfb49
+67fb1f4329084228255bfb188a083f8c
+499b53ac0852ac60ba6dc908858b058f
+778d4e8b26088bfc3305fbad8b058bff
+000004ea058bf188de86cb08f7a58b05
+8e7f8e738e68088d688c688b68088f8b
+05caf719f708cdf73b8b08f7128bed5b
+d02a08d02aaefb1e8bfb470809fbb98b
+158bf78741f70dfb298b08408b526a64
+4a08634a772f8bfb09088bfb099f31b3
+4c08b24bc46bd48b08f72a8bd6f7118b
+f78d08090e
+ND
+end end
+/p glyphshow
+/a glyphshow
+/g glyphshow
+/a glyphshow
+/m glyphshow
+/e glyphshow
+/n glyphshow
+/t glyphshow
+/o glyphshow
+%%glyph 000f
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/comma 55 RD
+f71ff8cd0df7b9cd158b3c83447a4e08
+7a4e6f51655608fb4d8b05b2bbabbfa4
+c408a4c497c08bbd08fb158b058bf7c5
+05f7b58b05090e
+ND
+end end
+/comma glyphshow
+/space glyphshow
+/d glyphshow
+/a glyphshow
+/t glyphshow
+/a glyphshow
+/s glyphshow
+/space glyphshow
+/e glyphshow
+/space glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1788 1878 moveto
+%%glyph 0059
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/v 60 RD
+93ff000004730df9678b15fbe48b05fc
+17face05f7bd8b05f751fcf105956aa3
+37b0fb190892a698bba0d008a0d0d7f7
+81f719f82908f7ba8b05090e
+ND
+end end
+/v glyphshow
+/a glyphshow
+/l glyphshow
+/o glyphshow
+/r glyphshow
+/space glyphshow
+/r glyphshow
+/e glyphshow
+/a glyphshow
+/i glyphshow
+/s glyphshow
+grestore
+%Ellipse
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+2422 633 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+2416 627 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.70 0.84 1.00 setrgbcolor
+fill
+grestore
+stroke
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+2416 627 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+2265 621 moveto
+%%glyph 0024
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/A 92 RD
+beff000005c70dface8b15fb11f7fc05
+fcad8b05fb11fbfc05fbbb8b05f896ff
+0000058105f7f08b05f894fffffffa7f
+0509fd42ff000004a815857505847383
+70826c08826c51fb3c22fbc708f8298b
+05fb1ff8290560f71c05090e
+ND
+end end
+/A glyphshow
+/p glyphshow
+/r glyphshow
+/o glyphshow
+/v glyphshow
+/a glyphshow
+/space glyphshow
+/o glyphshow
+/u glyphshow
+/space glyphshow
+/r glyphshow
+/e glyphshow
+/p glyphshow
+/r glyphshow
+/o glyphshow
+/v glyphshow
+/a glyphshow
+/space glyphshow
+/o glyphshow
+/space glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+2340 654 moveto
+/o glyphshow
+/r glyphshow
+/ccedilla glyphshow
+/a glyphshow
+/m glyphshow
+/e glyphshow
+/n glyphshow
+/t glyphshow
+/o glyphshow
+grestore
+%Ellipse
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+1576 513 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+1570 507 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.70 0.84 1.00 setrgbcolor
+fill
+grestore
+stroke
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+1570 507 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1446 501 moveto
+%%glyph 002b
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/H 64 RD
+f71dff000005c70dfa218b158bf8f005
+fcfa8b058bfcf005fbbb8b058bff0000
+058105f7bb8b058bfcc505f8fa8b058b
+f8c505f7bb8b058bfffffffa7f05090e
+ND
+end end
+/H glyphshow
+/o glyphshow
+/m glyphshow
+/o glyphshow
+/l glyphshow
+/o glyphshow
+/g glyphshow
+/a glyphshow
+/ccedilla glyphshow
+/atilde glyphshow
+/o glyphshow
+/space glyphshow
+/d glyphshow
+/a glyphshow
+/space glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1482 534 moveto
+/m glyphshow
+/a glyphshow
+/n glyphshow
+/u glyphshow
+/t glyphshow
+/e glyphshow
+/n glyphshow
+/ccedilla glyphshow
+/atilde glyphshow
+/o glyphshow
+grestore
+%Ellipse
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+1438 1560 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+1432 1554 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.70 0.84 1.00 setrgbcolor
+fill
+grestore
+stroke
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+1432 1554 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1290 1530 moveto
+%%glyph 0030
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/M 122 RD
+f71dff000006aa0dff000004928b158b
+f9ea058b9e8b9f8c9e088b9e8ede91f7
+27085cfb4768fb11744408fb92fda605
+fb668b05fb92f9a60520f80b0593fb2f
+8f258b59088bfdea05fb9a8b058bff00
+00058105f81f8b05f790fda805a13f05
+bbfb5105caf77605f797f9cf05f81d8b
+058bfffffffa7f05090e
+ND
+end end
+/M glyphshow
+/a glyphshow
+/r glyphshow
+/c glyphshow
+/a glyphshow
+/space glyphshow
+/o glyphshow
+/space glyphshow
+/i glyphshow
+/n glyphshow
+%%glyph 00af
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/iacute 51 RD
+f725f8cd0d8b8b158bface05f7ad8b05
+8bfece0509fbccff0000049f158baa05
+f790f7b405f7968b058b6005fbe8fba8
+05090e
+ND
+end end
+/iacute glyphshow
+/c glyphshow
+/i glyphshow
+/o glyphshow
+/space glyphshow
+/e glyphshow
+/space glyphshow
+%%glyph 0049
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/f 96 RD
+aef93e0df84afa10158bfe1005fbac8b
+058bfa1005fb328b058bf75205f7328b
+058bf705058beda5d4bfba08bfbadaa3
+f58b08c08bc686cd80088bfb49057091
+6f8e708b085b8b698278780877788169
+8b5b088b3605f7698b058bfb5205090e
+ND
+end end
+/f glyphshow
+/i glyphshow
+/m glyphshow
+/space glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1317 1563 moveto
+/d glyphshow
+/a glyphshow
+/space glyphshow
+/e glyphshow
+%%glyph 005b
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/x 65 RD
+99ff000004730df9b98b15fb90f81c05
+fb92fc1c05fbbf8b05f820f8c305fc0d
+f89f05f7c38b05f77bfbf605f77af7f6
+05f7c58b05fc0dfc9c05f823fcc60509
+0e
+ND
+end end
+/x glyphshow
+/e glyphshow
+/c glyphshow
+/u glyphshow
+/ccedilla glyphshow
+/atilde glyphshow
+/o glyphshow
+/space glyphshow
+/d glyphshow
+/a glyphshow
+/space glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1344 1596 moveto
+/m glyphshow
+/a glyphshow
+/n glyphshow
+/u glyphshow
+/t glyphshow
+/e glyphshow
+/n glyphshow
+/ccedilla glyphshow
+/atilde glyphshow
+/o glyphshow
+grestore
+%Ellipse
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+1522 2001 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+1516 1995 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.70 0.84 1.00 setrgbcolor
+fill
+grestore
+stroke
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+1516 1995 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1368 1989 moveto
+/A glyphshow
+/l glyphshow
+/t glyphshow
+/e glyphshow
+/r glyphshow
+/a glyphshow
+/r glyphshow
+/space glyphshow
+/i glyphshow
+/n glyphshow
+/f glyphshow
+/o glyphshow
+/r glyphshow
+/m glyphshow
+/a glyphshow
+/ccedilla glyphshow
+/otilde glyphshow
+/e glyphshow
+/s glyphshow
+/space glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1371 2022 moveto
+/s glyphshow
+/o glyphshow
+%%glyph 0045
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/b 183 RD
+f71bff000004e30dfa9cf8b5158bfb47
+67fb1e4428084328245afb198a083e8c
+499b53ac0853ac60bb6dca08898b058b
+748a6b88620888628771888008fba58b
+0590c98edd8bf2088bff000004d505f7
+ad8b058bfc320587fb44058f8b05caf7
+1ff708d0f73b8b08f7148bed5bd02a08
+cf2aadfb1e8bfb450809fbb98b158bf7
+0f79e667c60867c653a9408b083f8b51
+6b644c08634b772f8bfb0c088bfb079f
+32b24b08b24bc46bd78b08f7298bd5f7
+108bf78d08090e
+ND
+end end
+/b glyphshow
+/r glyphshow
+/e glyphshow
+/space glyphshow
+/a glyphshow
+/space glyphshow
+/m glyphshow
+/a glyphshow
+/n glyphshow
+/u glyphshow
+/t glyphshow
+/e glyphshow
+/n glyphshow
+/ccedilla glyphshow
+/atilde glyphshow
+/o glyphshow
+grestore
+%Ellipse
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+2295 1023 translate
+66 66 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+2289 1017 translate
+66 66 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.97 0.88 0.75 setrgbcolor
+fill
+grestore
+stroke
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+2289 1017 translate
+66 66 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+2289 1050 moveto
+2289 1113 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+2244 1065 moveto
+2289 1065 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+2334 1065 moveto
+2289 1065 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+2289 1113 moveto
+2325 1176 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+2289 1113 moveto
+2253 1176 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+2160 1203 moveto
+%%glyph 002a
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/G 173 RD
+dfff000006390df966f76715d88bd596
+d3a208d3a1c3a7b2ae088bf75705fbec
+8b058bf76e05f8fa8b058bfc9a05403e
+2a4ffb0b6008fb0c60fb1276fb178a08
+fb798cfb45cafb0ff71308fb0ff7134d
+f7488bf77d088bf77cc9f746f710f710
+08f710f70ff746c9f77d8b08f7df8bf7
+66fb0ee5fb8908fba439056ed25dc14c
+b0084cb0429d368b08fb1f8b22614337
+08433767fb0c8bfb31088bfb33b0fb0f
+d63408d534f35ff71b8b08090e
+ND
+end end
+/G glyphshow
+/e glyphshow
+/r glyphshow
+/e glyphshow
+/n glyphshow
+/t glyphshow
+/e glyphshow
+/space glyphshow
+/f glyphshow
+/i glyphshow
+/n glyphshow
+/a glyphshow
+/n glyphshow
+/c glyphshow
+/e glyphshow
+/i glyphshow
+/r glyphshow
+/o glyphshow
+grestore
+%Ellipse
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+1695 1050 translate
+66 66 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+1689 1044 translate
+66 66 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.97 0.88 0.75 setrgbcolor
+fill
+grestore
+stroke
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+1689 1044 translate
+66 66 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+1689 1077 moveto
+1689 1140 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1644 1092 moveto
+1689 1092 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1734 1092 moveto
+1689 1092 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1689 1140 moveto
+1725 1203 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+1689 1140 moveto
+1653 1203 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1578 1230 moveto
+/G glyphshow
+/e glyphshow
+/r glyphshow
+/e glyphshow
+/n glyphshow
+/t glyphshow
+/e glyphshow
+/space glyphshow
+/t glyphshow
+%%glyph 00ab
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/eacute 172 RD
+dbff000004730df88e7715fb378cfb11
+ba34ec0834eb5ff7208bf74d088bf747
+b7f71de4eb08e4ebf711bbf7378b08f7
+2f8bf70b58dd2408dd24b4fb2b8bfb5b
+088b8305fd4a8b058b229f3bb25608b2
+55c270d38b08ee8bcab6a5e108f79d74
+053efb58fb2f2afb7f8a08098bfa4515
+498b5874685d08675d784b893808f838
+8b0586e276cd66b70866b65aa14d8b08
+09fb3cf796158baa05f790f7b405f796
+8b058b6005fbe8fba805090e
+ND
+end end
+/eacute glyphshow
+/c glyphshow
+/n glyphshow
+/i glyphshow
+/c glyphshow
+/o glyphshow
+grestore
+%Ellipse
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+1795 1572 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+1789 1566 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.70 0.84 1.00 setrgbcolor
+fill
+grestore
+stroke
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+1789 1566 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1662 1542 moveto
+/A glyphshow
+/g glyphshow
+/e glyphshow
+/n glyphshow
+/d glyphshow
+/a glyphshow
+/m glyphshow
+/e glyphshow
+/n glyphshow
+/t glyphshow
+/o glyphshow
+/space glyphshow
+/d glyphshow
+/a glyphshow
+/space glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1674 1575 moveto
+/m glyphshow
+/a glyphshow
+/n glyphshow
+/u glyphshow
+/t glyphshow
+/e glyphshow
+/n glyphshow
+/ccedilla glyphshow
+/atilde glyphshow
+/o glyphshow
+/space glyphshow
+/n glyphshow
+/o glyphshow
+/space glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+1662 1608 moveto
+/t glyphshow
+/r glyphshow
+/e glyphshow
+/c glyphshow
+/h glyphshow
+/o glyphshow
+/space glyphshow
+/d glyphshow
+/a glyphshow
+/space glyphshow
+/r glyphshow
+/o glyphshow
+/d glyphshow
+/o glyphshow
+/v glyphshow
+/i glyphshow
+/a glyphshow
+grestore
+%Ellipse
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+2211 1555 translate
+264 177 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+2205 1549 translate
+264 177 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.70 0.84 1.00 setrgbcolor
+fill
+grestore
+stroke
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+2205 1549 translate
+264 177 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+2130 1542 moveto
+/C glyphshow
+/a glyphshow
+/d glyphshow
+/a glyphshow
+/s glyphshow
+/t glyphshow
+/r glyphshow
+/a glyphshow
+/r glyphshow
+/space glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+2139 1575 moveto
+/G glyphshow
+/e glyphshow
+/r glyphshow
+/e glyphshow
+/n glyphshow
+/t glyphshow
+/e glyphshow
+/s glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+2688 1047 moveto
+2286 1461 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+1659 993 moveto
+1587 612 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+1599 1281 moveto
+1494 1449 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+1659 1281 moveto
+1536 1890 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+1722 1281 moveto
+1761 1461 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+2910 2034 moveto
+2271 2058 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+2205 1254 moveto
+1923 1731 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+2328 966 moveto
+2388 732 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+0 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+0 0 moveto
+2328 0 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+2328 0 moveto
+2328 3354 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+2328 3354 moveto
+0 3354 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+0 3354 moveto
+0 0 lineto
+stroke
+pgsave restore
+showpage
+%%Page: 2 2
+%%BeginPageSetup
+/pgsave save def
+72 300 div 72 300 div scale
+75 3433 translate
+1 -1 scale
+0 rotate
+%%EndPageSetup
+0.00 0.00 0.00 setrgbcolor
+0 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+0 0 moveto
+2328 0 rlineto
+0 3354 rlineto
+-2328 0 rlineto
+closepath
+gsave
+1.00 1.00 1.00 setrgbcolor
+fill
+grestore
+stroke
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+-1068 1353 moveto
+-1068 2250 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+-1068 2250 moveto
+372 2250 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+372 2250 moveto
+372 1353 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+372 1353 moveto
+-1068 1353 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+25 dict begin
+ /FontName /LiberationSans def
+ /Encoding 256 array 0 1 255{1 index exch /.notdef put} for def
+ /PaintType 0 def
+ /FontMatrix [1 2048 div 0 0 1 2048 div 0 0] def
+ /FontBBox [-1114 -621 2666 2007] def
+ /FontType 1 def
+ /Private 7 dict begin
+  /RD {string currentfile exch readhexstring pop} def
+  /ND {def} def
+  /NP {put} def
+  /MinFeature {16 16} def
+  /BlueValues [] def
+  /password 5839 def
+  /lenIV -1 def
+ currentdict end def
+ currentdict dup /Private get begin
+  /CharStrings 256 dict begin
+   /.notdef 4 RD 8b8b0d0e ND
+  currentdict end put
+ end
+currentdict end dup /FontName get exch definefont pop
+/LiberationSans findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+-402 1392 moveto
+%%glyph 0036
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/S 267 RD
+e8ff000005560dff0000049bf819158b
+fb1658262644082544fb2368fb4d8a08
+fbeb8cfb5bf70a54f78308f74db005a0
+36b94dd06408d063ea77f70b8b08f70f
+8beba0ceb608ceb5acc98bdd088bb981
+b076a80876a86da2659e08659e5e9a56
+9808569851984b9a08fb03a436a352a4
+0851a45da66aaa086aa971ae7ab40879
+b482b98bc0088bf70db9e8e8cc08e7cc
+f718acf7408b08f7348bf70e73e05a08
+e05ac637adfb0a08fb506a0576d664c1
+51ad0851ac3b9c248b08fb058b357850
+660850666d538b41088b609767a26f08
+a26eac73b67808b677e273f7156e08b6
+81b781b68108b680b47fb27d08b27cb0
+7aae7808ad78a973a46f08a46f9f6a9a
+65089965925e8b5808090e
+ND
+end end
+/S glyphshow
+%%glyph 004c
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/i 47 RD
+f71df85b0d8bff00000520158bf74005
+f7488b058bfb400509fb48fffffffae0
+158bface05f7488b058bfece05090e
+ND
+end end
+/i glyphshow
+%%glyph 0056
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/s 224 RD
+c4fa940dfa11f7bf158b25653c3e5408
+3e54fb0070fb1f8a08fb1b8c24a042b8
+0842b75bd075e908f733aa059a51ab61
+bb7008bb70ce7de08b08e68bce99b6a7
+08b5a7a0b58bc3088bb67cad6ea6086e
+a65ba14a9c08fb15ad0524a641a560a5
+085fa469aa72b00872b07fb88bc0088b
+eeaed6d2bf08d1bef1a5f71b8b08f70b
+8bea76d26108d161b7489e2e08fb3677
+0581bb70b060a5085fa45098428b083a
+8b4f7f647208647278668b59088b6c93
+729b77089b77a37aaa7d08aa7dcd78f0
+7208ea73d075b57708b576ac75a47208
+a3729e6f986b08986a92668b6208090e
+ND
+end end
+/s glyphshow
+%%glyph 0057
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/t 91 RD
+aaf8cd0df89f9315507c4e834d8a08fb
+248c43dc8bf737088bf96605fb118b05
+8bf71705f7188b05c0f78605f70c8b05
+8bfb8605f75c8b058bfb1705fb5c8b05
+8bfd3f058b5794679c76089c76a880b5
+8b08a38bae90b89408090e
+ND
+end end
+/t glyphshow
+%%glyph 0048
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/e 142 RD
+e2ff000004730df751f88b158bfb10a5
+2bbe4808be48d669ee8b08d98bca9bba
+aa08baaaaab39cbb08f7325e054afb3f
+fb2737fb798a08fb348cfb0eba38ea08
+37ea61f7228bf750088bf747b5f71ddf
+ea08deeaf70cbbf72f8b08f7d28bf733
+fb548bfc13088b730509fb4ef71e1581
+f7066ede5bc0085bbf46a5318b08348b
+466e58510858506f3b872508090e
+ND
+end end
+/e glyphshow
+%%glyph 0050
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/m 199 RD
+f71cff000006aa0df90c8b158bf94205
+8bf47dd36eb3086eb3589f408b083e8b
+4f6e5e50085e5075398b20088bfd0705
+fb478b058bf9e7058bf71289d887a708
+f73e8b058c888b828c7c088c7c8c7b8c
+78088c788c678c56088e8b05b2d8b7c0
+bda908bda9c89ad38b08dd8bcc7bbb6a
+08ba6aac579e44088e8b05b0d4b9bfc0
+ab08c0abcb9bd68b08f7018bdb6dbd50
+08bc50a4298bfb1b088bfd6505fb468b
+058bf942058bf47dd36eb3086eb3589f
+408b083c8b4e6e6051085f5075388b20
+088bfd0705090e
+ND
+end end
+/m glyphshow
+%%glyph 0044
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/a 245 RD
+e2ff000004730df7db7715fb018c3aa7
+54c40854c470da8bef088bf704b0e1d5
+c708d4c7f70babf7388f08f7878f058b
+c6058be378ca66b10866b1509e3b8b08
+3a8b517d6670086670755f844f08fb50
+9c05aaf757f724ecf7978b08f71c8bf1
+6cd04d08d04cad318bfb0a088bfc6605
+8b5692639970089970a67db28b089c8b
+9f8da190088bfb04055e815c865c8a08
+488c5b9c6dae086cae7ac187d608858b
+055d3856514e69084e69407a348a0809
+b4f71b15cd8bc69abea908bea9b4b4a9
+c008a8bf9ac18bc2088be405fb598705
+368a4b82607b085f7b6972746a08746a
+7f5f8b55088b509b5eab6b08aa6bb87b
+c68b08090e
+ND
+end end
+/a glyphshow
+grestore
+%Ellipse
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+-106 1770 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+-112 1764 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.70 0.84 1.00 setrgbcolor
+fill
+grestore
+stroke
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+-112 1764 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+25 dict begin
+ /FontName /LiberationSans-Bold def
+ /Encoding 256 array 0 1 255{1 index exch /.notdef put} for def
+ /PaintType 0 def
+ /FontMatrix [1 2048 div 0 0 1 2048 div 0 0] def
+ /FontBBox [-987 -771 2671 2116] def
+ /FontType 1 def
+ /Private 7 dict begin
+  /RD {string currentfile exch readhexstring pop} def
+  /ND {def} def
+  /NP {put} def
+  /MinFeature {16 16} def
+  /BlueValues [] def
+  /password 5839 def
+  /lenIV -1 def
+ currentdict end def
+ currentdict dup /Private get begin
+  /CharStrings 256 dict begin
+   /.notdef 4 RD 8b8b0d0e ND
+  currentdict end put
+ end
+currentdict end dup /FontName get exch definefont pop
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+-249 1758 moveto
+%%glyph 0026
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/C 158 RD
+dfff000005c70df95bf76815f7468bf7
+10e4d0f74708f7952a0554fb1c3a2620
+49082048fb156bfb298a08fb778cfb43
+cafb0ff71508fb10f7144df7478bf77b
+088bf77bc7f746f70bf71008f70bf710
+f741c9f7778b08f7398bf71b6af34908
+f348d42ab5fb1508fb98440575d260c3
+4bb5084ab43fa0348b08fb198b266246
+3808463868fb0d8bfb33088bfb36affb
+10d23608d236f160f71a8b08090e
+ND
+end end
+/C glyphshow
+%%glyph 0052
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/o 141 RD
+dbff000004e30dfad7f8b2158bfb435a
+fb1e2a28082a27fb1b5afb408a08fb3d
+8cfb18bc2bef082bef5bf71d8bf74308
+8bf742bbf71debef08ebeef71abdf741
+8b08f7458bf71b5be82b08e82ab9fb1e
+8bfb490809fbba8b158bf71576e861c5
+0861c54ea83b8b08fb3f8b36fb0e8bfb
+89088bfb0da030b54c08b44cc76bda8b
+08f7418be1f70f8bf78b08090e
+ND
+end end
+/o glyphshow
+%%glyph 0051
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/n 122 RD
+f71bff000004e30df9598b158bf8f305
+8bf7524beafb158b08478b546e625108
+615076408b30088bfcd805fbad8b058b
+f9dc058bc58abb8ab00889b089ac89a8
+08f7a08b058d7e8e6a8e54088e548d65
+8b76088f8b05b1debbc7c4b008c4b0d0
+9eda8b08f7078be368c84408c844aa24
+8bfb1c088bfd4305090e
+ND
+end end
+/n glyphshow
+%%glyph 0056
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/s 219 RD
+d3ff000004730dfa6bf7d0158b226039
+365008354ffb0b6efb2b8a08fb298cfb
+05a23cba083cba56d471ee08f78bb005
+9958a366ae7608ad76c780e08b08da8b
+c495af9f08af9f9daa8bb6088bae7da6
+6ea0086e9f599c469908fb33aa20a954
+a60854a661ae6eb6086eb67cbf8bca08
+8bf2b3dcdbc508dac4f705a8f7268b08
+f7158bf272da5908d959bc439e2c08fb
+8d710583b777ac6ca1086ca05996478b
+08488b59836a7a086a7a7a6e8b63088b
+6c9872a57908a478b67cc87f08e07ad6
+79cd7908cc78c075b37208b272ab6aa3
+6408a26397588b4d08090e
+ND
+end end
+/s glyphshow
+%%glyph 0058
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/u 109 RD
+f713ff000004e30df7adface158bfcf3
+058bfb52cb2cf7148b08cf8bc2a8b5c6
+08b4c5a0d68be6088bf8d805f7ad8b05
+8bfddc058b2f8e3a904608fba08b0583
+eb87d38bba08868b0566395b4f526608
+516646793c8a08fb078c33ad4ed2084e
+d16cf28bf71c088bf94305090e
+ND
+end end
+/u glyphshow
+%%glyph 004f
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/l 28 RD
+f723f8cd0d8b8b158bff000005cc05f7
+ad8b058bfffffffa3405090e
+ND
+end end
+/l glyphshow
+%%glyph 0057
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/t 100 RD
+a4f93e0df81f7915388c4ca15eb8085e
+b875cf8be6088bf91205fb1d8b058bf7
+5205f72b8b05e3f79205f7448b058bfb
+9205f7618b058bfb5205fb618b058bfc
+c6058b5695659f72089f72aa7eb58b08
+a18baa90b494088bfb420546753c8032
+8a08090e
+ND
+end end
+/t glyphshow
+%%glyph 0044
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/a 263 RD
+c7ff000004730df7e17715228c3aa750
+c40850c46edb8bf2088bf704b0e0d4c6
+08d4c6f4a9f71f8c08f77d8f058bc205
+8bd27fbf72ae0872ad639c538b08578b
+657f73740872737c64855408fbb99905
+9df4bbdbdac208d9c1f6a6f71b8b08f7
+1d8bf469d54808d548b02b8bfb10088b
+fc1e058b4e92629974089874a27fab8b
+08a08ba08d9f8f088bfb2c057a877c87
+7e88087e887d897e89087e897d897c8a
+087c8a798a778a08448c579b6aae0869
+ae77be84ce08858b053cfb22fb0a45fb
+338a0809f7dbf89d15fb2489054a885c
+84708008707f76797d73087c73846b8b
+63088b589765a37208a272ab7eb28b08
+b78bb397b0a308afa3a7aca0b608a0b5
+95b88bba08090e
+ND
+end end
+/a glyphshow
+%%glyph 0003
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/space 5 RD
+8bf8cd0d0e
+ND
+end end
+/space glyphshow
+%%glyph 004b
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/h 110 RD
+f723ff000004e30df7a9f9f615b1debb
+c7c4b008c4b0d09eda8b08f7078be368
+c84408c844aa248bfb1c088bfd4205fb
+ac8b058bf8f2058bf7524beafb158b08
+478b546e625108615076408b30088bfc
+d705fbad8b058bff000005cc05f7ad8b
+058bfc29058b428844864608090e
+ND
+end end
+/h glyphshow
+%%glyph 004c
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/i 47 RD
+f723f8cd0d8bff000004fd158bf76305
+f7ad8b058bfb630509fbadfffffffb03
+158bface05f7ad8b058bfece05090e
+ND
+end end
+/i glyphshow
+/s glyphshow
+/t glyphshow
+%%glyph 00b5
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/oacute 167 RD
+dbff000004e30dfad7f8b2158bfb435a
+fb1e2a28082a27fb1b5afb408a08fb3d
+8cfb18bc2bef082bef5bf71d8bf74308
+8bf742bbf71debef08ebeef71abdf741
+8b08f7458bf71b5be82b08e82ab9fb1e
+8bfb490809fbba8b158bf71576e861c5
+0861c54ea83b8b08fb3f8b36fb0e8bfb
+89088bfb0da030b54c08b44cc76bda8b
+08f7418be1f70f8bf78b0809fc30f915
+158baa05f790f7b405f7968b058b6005
+fbe8fba805090e
+ND
+end end
+/oacute glyphshow
+%%glyph 0055
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/r 107 RD
+f71bf9b10d938b158bf9d0058bc68abd
+8ab30889b289ae89aa08f7a08b058d7f
+8e678e4e088e4e8d628b77088f8b05a6
+d7a4c1a0aa08a0aaa5a2a89a08a89ab0
+92b78b08af8ba886a181088bfb7f055e
+956390688b08458b556f645208645277
+378bfb03088bfca705090e
+ND
+end end
+/r glyphshow
+/i glyphshow
+%%glyph 0046
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/c 142 RD
+dbff000004730df8967715fb388cfb13
+bb32ed0832ec5ef71c8bf743088bf747
+b8f71fe5ef08e5eef714bdf7398b08f7
+138bf56bde4b08de4bc033a0fb0508fb
+af7d0583c277b86bac086bac5e9b508b
+08fb258b43fb0d8bfb86088bfb8dd5fb
+11f7278b08c08bb89cafad08afaca1bd
+94ce08f7ae7e05814171496051086051
+525e456c08456c3c7b348a08090e
+ND
+end end
+/c glyphshow
+/o glyphshow
+/space glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+-231 1791 moveto
+%%glyph 0047
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/d 178 RD
+dfff000004e30df98c8b15889588a488
+b40887b389ac8ba608878b054efb17fb
+074bfb3e8a08fb128c2abb46ee0846ed
+69f71d8bf745088bf747aff71fd4ed08
+d3ecf1bcf7198b08d88bcd7bc36b08c2
+6bb65ba94c088d8b0589f746058bf81f
+05f7ad8b058bfffffffb20058b488e3d
+90300809fbb1f8b7158bf70978e564ca
+0864ca51aa3f8b08408b536d664e0866
+4e792d8bfb11088bfb89d5fb0ff7278b
+08d58bc4acb4cc08b4cc9fe78bf70c08
+090e
+ND
+end end
+/d glyphshow
+%%glyph 0048
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/e 146 RD
+dbff000004730df88e7715fb378cfb11
+ba34ec0834eb5ff7208bf74d088bf747
+b7f71de4eb08e4ebf711bbf7378b08f7
+2f8bf70b58dd2408dd24b4fb2b8bfb5b
+088b8305fd4a8b058b229f3bb25608b2
+55c270d38b08ee8bcab6a5e108f79d74
+053efb58fb2f2afb7f8a08098bfa4515
+498b5874685d08675d784b893808f838
+8b0586e276cd66b70866b65aa14d8b08
+090e
+ND
+end end
+/e glyphshow
+/space glyphshow
+%%glyph 0050
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/m 182 RD
+f71bff0000071d0df9198b158bf8f305
+8bf75254eafb018b08528b5d6e685108
+675179408b2f088bfcd805fbad8b058b
+f9dc058bc58abb8ab00889b089ac89a8
+08f7a08b058d7e8e6a8e54088e548d65
+8b76088f8b05aedeb6c7bfb008beb0c9
+9ed38b08f7398bf03caefb3108918b05
+b0dfb7c7beb008beb0cd9dda8b08f48b
+dc67c24408c243a7248bfb1a088bfd43
+05fbab8b058bf8f3058bf75254eafb01
+8b08548b5f7168560868567741882e08
+8bfce505090e
+ND
+end end
+/m glyphshow
+/a glyphshow
+/n glyphshow
+/u glyphshow
+/t glyphshow
+/e glyphshow
+/n glyphshow
+%%glyph 00a9
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/ccedilla 233 RD
+dbff000004730df8967715fb388cfb13
+bb32ed0832ec5ef71c8bf743088bf747
+b8f71fe5ef08e5eef714bdf7398b08f7
+138bf56bde4b08de4bc033a0fb0508fb
+af7d0583c277b86bac086bac5e9b508b
+08fb258b43fb0d8bfb86088bfb8dd5fb
+11f7278b08c08bb89cafad08afaca1bd
+94ce08f7ae7e05814171496051086051
+525e456c08456c3c7b348a0809f759fb
+6b158b4d715c576b08576b407b298a08
+6d8c698d668e088bf70a05a287a789ac
+8a08e68cb9a28bb8088ba3829d789608
+78966c915f8a08728c798a828908c9f7
+4005f7238b056a3905ca88b97caa7008
+a9709a678b5e08090e
+ND
+end end
+/ccedilla glyphshow
+%%glyph 00b7
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/otilde 273 RD
+dbff000004e30dfad7f8b2158bfb435a
+fb1e2a28082a27fb1b5afb408a08fb3d
+8cfb18bc2bef082bef5bf71d8bf74308
+8bf742bbf71debef08ebeef71abdf741
+8b08f7458bf71b5be82b08e82ab9fb1e
+8bfb490809fbba8b158bf71576e861c5
+0861c54ea83b8b08fb3f8b36fb0e8bfb
+89088bfb0da030b54c08b44cc76bda8b
+08f7418be1f70f8bf78b080935f91515
+6e8b6d916e98086d986e996f9b086f9a
+719972980872987491778b08708b7683
+7d7c087c7c7f69825808fb1d8b0590d6
+96c49cb1089bb0a2a9aaa208aaa1b396
+be8b08a98ba985a97e08a97ea87da77c
+08a77ba57da47e08a37ea1859e8b08a6
+8ba0939a9c089a9b97ac94bc08f71b8b
+0586227640665e08655e5674468b0809
+0e
+ND
+end end
+/otilde glyphshow
+/e glyphshow
+/s glyphshow
+grestore
+%Ellipse
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+645 1947 translate
+66 66 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+639 1941 translate
+66 66 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.97 0.88 0.75 setrgbcolor
+fill
+grestore
+stroke
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+639 1941 translate
+66 66 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+639 1974 moveto
+639 2037 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+594 1989 moveto
+639 1989 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+684 1989 moveto
+639 1989 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+639 2037 moveto
+675 2100 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+639 2037 moveto
+603 2100 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+585 2127 moveto
+%%glyph 0038
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/U 106 RD
+f70fff000005c70df8ec7715fb568cfb
+28b924ea0824ea57f71b8bf744088bfa
+0505f7bb8b058bfdee058bfb03a636c0
+5208c051d86ef28b08f48bdca9c4c808
+c4c7a7e18bf705088bf9e405f7bb8b05
+8bfdf6058bfb4754fb1efb022908fb03
+28fb2f5bfb5c8a08090e
+ND
+end end
+/U glyphshow
+/s glyphshow
+/u glyphshow
+%%glyph 00a3
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/aacute 289 RD
+c7ff000004730df7d97715228c3aa750
+c40850c46edb8bf2088bf704b0e0d4c6
+08d4c6f4a9f71f8c08f77d8f058bc205
+8bd27fbf72ae0872ad639c538b08578b
+657f73740872737c64855408fbb99905
+9df4bbdbdac208d9c1f6a6f71b8b08f7
+1d8bf469d54808d548b02b8bfb10088b
+fc1e058b4e92629974089874a27fab8b
+08a08ba08d9f8f088bfb2c057a877c87
+7e88087e887d897e89087e897d897c8a
+087c8a798a778a08448c579b6aae0869
+ae77be84ce08858b053cfb22fb0a45fb
+338a0809f7dbf89d15fb2489054a885c
+84708008707f76797d73087c73846b8b
+63088b589765a37208a272ab7eb28b08
+b78bb397b0a308afa3a7aca0b608a0b5
+95b88bba0809fbe5f975158baa05f790
+f7b405f7968b058b6005fbe8fba80509
+0e
+ND
+end end
+/aacute glyphshow
+/r glyphshow
+/i glyphshow
+/o glyphshow
+grestore
+%Ellipse
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+202 1701 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+196 1695 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.70 0.84 1.00 setrgbcolor
+fill
+grestore
+stroke
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+196 1695 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+54 1671 moveto
+%%glyph 002c
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/I 28 RD
+f71df8cd0d8b8b158bff0000058105f7
+bb8b058bfffffffa7f05090e
+ND
+end end
+/I glyphshow
+/n glyphshow
+%%glyph 0049
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/f 96 RD
+aef93e0df84afa10158bfe1005fbac8b
+058bfa1005fb328b058bf75205f7328b
+058bf705058beda5d4bfba08bfbadaa3
+f58b08c08bc686cd80088bfb49057091
+6f8e708b085b8b698278780877788169
+8b5b088b3605f7698b058bfb5205090e
+ND
+end end
+/f glyphshow
+/o glyphshow
+/r glyphshow
+/m glyphshow
+/a glyphshow
+/space glyphshow
+%%glyph 0032
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/O 185 RD
+dfff000006390dff0000058ff95b158b
+fb276efb1551fb030851fb033836fb00
+5008fb0050fb126efb248a08fb718cfb
+42cbfb11f71708fb12f7164cf7468bf7
+77088bf776caf744f711f71308f711f7
+13f743caf7738b08f7738bf7434bf712
+fb1408f711fb14cafb448bfb730809fb
+c18b158bf72c67f70b43e20843e126b6
+fb168b08fb188b2560433608433567fb
+0c8bfb2d088bfb2fb0fb0dd53208d432
+f05ef7138b08f7188bf1b6d3e208d2e2
+aff70f8bf73308090e
+ND
+end end
+/O glyphshow
+/r glyphshow
+/ccedilla glyphshow
+/a glyphshow
+/m glyphshow
+/e glyphshow
+/n glyphshow
+/t glyphshow
+/o glyphshow
+/space glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+54 1704 moveto
+%%glyph 0053
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/p 181 RD
+f71bff000004e30dfa9cf8b6158bfb49
+67fb1f4329084228255bfb188a083f8c
+499b53ac0852ac60ba6dc908858b058f
+778d4e8b26088bfc3305fbad8b058bff
+000004ea058bf188de86cb08f7a58b05
+8e7f8e738e68088d688c688b68088f8b
+05caf719f708cdf73b8b08f7128bed5b
+d02a08d02aaefb1e8bfb470809fbb98b
+158bf78741f70dfb298b08408b526a64
+4a08634a772f8bfb09088bfb099f31b3
+4c08b24bc46bd48b08f72a8bd6f7118b
+f78d08090e
+ND
+end end
+/p glyphshow
+/a glyphshow
+/r glyphshow
+/a glyphshow
+/space glyphshow
+/a glyphshow
+/space glyphshow
+/m glyphshow
+/a glyphshow
+/n glyphshow
+/u glyphshow
+/t glyphshow
+/e glyphshow
+/n glyphshow
+/ccedilla glyphshow
+%%glyph 00a5
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/atilde 395 RD
+c7ff000004730df7d97715228c3aa750
+c40850c46edb8bf2088bf704b0e0d4c6
+08d4c6f4a9f71f8c08f77d8f058bc205
+8bd27fbf72ae0872ad639c538b08578b
+657f73740872737c64855408fbb99905
+9df4bbdbdac208d9c1f6a6f71b8b08f7
+1d8bf469d54808d548b02b8bfb10088b
+fc1e058b4e92629974089874a27fab8b
+08a08ba08d9f8f088bfb2c057a877c87
+7e88087e887d897e89087e897d897c8a
+087c8a798a778a08448c579b6aae0869
+ae77be84ce08858b053cfb22fb0a45fb
+338a0809f7dbf89d15fb2489054a885c
+84708008707f76797d73087c73846b8b
+63088b589765a37208a272ab7eb28b08
+b78bb397b0a308afa3a7aca0b608a0b5
+95b88bba080992f975156e8b6d916e98
+086d986e996f9b086f9a719972980872
+987491778b08708b76837d7c087c7c7f
+69825808fb1d8b0590d696c49cb1089b
+b0a2a9aaa208aaa1b396be8b08a98ba9
+85a97e08a97ea87da77c08a77ba57da4
+7e08a37ea1859e8b08a68ba0939a9c08
+9a9b97ac94bc08f71b8b058622764066
+5e08655e5674468b08090e
+ND
+end end
+/atilde glyphshow
+/o glyphshow
+/space glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+66 1737 moveto
+/d glyphshow
+/o glyphshow
+/space glyphshow
+/t glyphshow
+/r glyphshow
+/e glyphshow
+/c glyphshow
+/h glyphshow
+/o glyphshow
+/space glyphshow
+/p glyphshow
+/r glyphshow
+/e glyphshow
+%%glyph 0059
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/v 60 RD
+93ff000004730df9678b15fbe48b05fc
+17face05f7bd8b05f751fcf105956aa3
+37b0fb190892a698bba0d008a0d0d7f7
+81f719f82908f7ba8b05090e
+ND
+end end
+/v glyphshow
+/i glyphshow
+/s glyphshow
+/t glyphshow
+/o glyphshow
+grestore
+%Ellipse
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+525 1446 translate
+66 66 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+519 1440 translate
+66 66 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.97 0.88 0.75 setrgbcolor
+fill
+grestore
+stroke
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+519 1440 translate
+66 66 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+519 1473 moveto
+519 1536 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+474 1488 moveto
+519 1488 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+564 1488 moveto
+519 1488 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+519 1536 moveto
+555 1599 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+519 1536 moveto
+483 1599 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+456 1626 moveto
+%%glyph 0028
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/E 60 RD
+f71dff000005560d8b8b158bff000005
+8105fae88b058bfb7805fdc18b058bfb
+f605f9848b058bfb7805fd848b058bfc
+0705f9ea8b058bfb7805090e
+ND
+end end
+/E glyphshow
+/m glyphshow
+/p glyphshow
+/r glyphshow
+/e glyphshow
+/s glyphshow
+/a glyphshow
+grestore
+%Ellipse
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+94 633 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+88 627 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.70 0.84 1.00 setrgbcolor
+fill
+grestore
+stroke
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+88 627 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+-63 621 moveto
+%%glyph 0024
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/A 92 RD
+beff000005c70dface8b15fb11f7fc05
+fcad8b05fb11fbfc05fbbb8b05f896ff
+0000058105f7f08b05f894fffffffa7f
+0509fd42ff000004a815857505847383
+70826c08826c51fb3c22fbc708f8298b
+05fb1ff8290560f71c05090e
+ND
+end end
+/A glyphshow
+/p glyphshow
+/r glyphshow
+/o glyphshow
+/v glyphshow
+/a glyphshow
+/space glyphshow
+/o glyphshow
+/u glyphshow
+/space glyphshow
+/r glyphshow
+/e glyphshow
+/p glyphshow
+/r glyphshow
+/o glyphshow
+/v glyphshow
+/a glyphshow
+/space glyphshow
+/o glyphshow
+/space glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+12 654 moveto
+/o glyphshow
+/r glyphshow
+/ccedilla glyphshow
+/a glyphshow
+/m glyphshow
+/e glyphshow
+/n glyphshow
+/t glyphshow
+/o glyphshow
+grestore
+%Ellipse
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+-33 1023 translate
+66 66 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+-39 1017 translate
+66 66 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.97 0.88 0.75 setrgbcolor
+fill
+grestore
+stroke
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+-39 1017 translate
+66 66 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+-39 1050 moveto
+-39 1113 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+-84 1065 moveto
+-39 1065 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+6 1065 moveto
+-39 1065 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+-39 1113 moveto
+-3 1176 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+-39 1113 moveto
+-75 1176 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+-168 1203 moveto
+%%glyph 002a
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/G 173 RD
+dfff000006390df966f76715d88bd596
+d3a208d3a1c3a7b2ae088bf75705fbec
+8b058bf76e05f8fa8b058bfc9a05403e
+2a4ffb0b6008fb0c60fb1276fb178a08
+fb798cfb45cafb0ff71308fb0ff7134d
+f7488bf77d088bf77cc9f746f710f710
+08f710f70ff746c9f77d8b08f7df8bf7
+66fb0ee5fb8908fba439056ed25dc14c
+b0084cb0429d368b08fb1f8b22614337
+08433767fb0c8bfb31088bfb33b0fb0f
+d63408d534f35ff71b8b08090e
+ND
+end end
+/G glyphshow
+/e glyphshow
+/r glyphshow
+/e glyphshow
+/n glyphshow
+/t glyphshow
+/e glyphshow
+/space glyphshow
+/f glyphshow
+/i glyphshow
+/n glyphshow
+/a glyphshow
+/n glyphshow
+/c glyphshow
+/e glyphshow
+/i glyphshow
+/r glyphshow
+/o glyphshow
+grestore
+%Ellipse
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+459 861 translate
+66 66 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+453 855 translate
+66 66 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.97 0.88 0.75 setrgbcolor
+fill
+grestore
+stroke
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+453 855 translate
+66 66 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+453 888 moveto
+453 951 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+408 903 moveto
+453 903 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+498 903 moveto
+453 903 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+453 951 moveto
+489 1014 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+453 951 moveto
+417 1014 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+354 1041 moveto
+/A glyphshow
+/d glyphshow
+/m glyphshow
+/i glyphshow
+/n glyphshow
+/i glyphshow
+/s glyphshow
+/t glyphshow
+/r glyphshow
+/a glyphshow
+/d glyphshow
+/o glyphshow
+/r glyphshow
+grestore
+%Ellipse
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+196 1485 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+190 1479 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.70 0.84 1.00 setrgbcolor
+fill
+grestore
+stroke
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+190 1479 translate
+315 210 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+93 1473 moveto
+/C glyphshow
+/a glyphshow
+/d glyphshow
+/a glyphshow
+/s glyphshow
+/t glyphshow
+/r glyphshow
+/a glyphshow
+/r glyphshow
+/space glyphshow
+/d glyphshow
+/e glyphshow
+/space glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+120 1506 moveto
+/e glyphshow
+/m glyphshow
+/p glyphshow
+/r glyphshow
+/e glyphshow
+/s glyphshow
+/a glyphshow
+/s glyphshow
+grestore
+%Ellipse
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+-117 1555 translate
+264 177 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+-123 1549 translate
+264 177 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.70 0.84 1.00 setrgbcolor
+fill
+grestore
+stroke
+grestore
+%Ellipse
+0.00 0.00 0.00 setrgbcolor
+gsave
+0 0 2328 3354 rectclip
+newpath
+tmpmtrx currentmatrix pop
+-123 1549 translate
+264 177 scale
+0 0 0.5 -360.0 -0.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+-198 1542 moveto
+/C glyphshow
+/a glyphshow
+/d glyphshow
+/a glyphshow
+/s glyphshow
+/t glyphshow
+/r glyphshow
+/a glyphshow
+/r glyphshow
+/space glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[30 0 0 -30 0 0]
+makefont setfont
+gsave
+0 0 2328 3354 rectclip
+-189 1575 moveto
+/G glyphshow
+/e glyphshow
+/r glyphshow
+/e glyphshow
+/n glyphshow
+/t glyphshow
+/e glyphshow
+/s glyphshow
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+351 1056 moveto
+-42 1461 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+240 1374 moveto
+381 1092 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+582 2034 moveto
+-57 2058 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+582 2013 moveto
+45 1821 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+462 1560 moveto
+354 1614 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+gsave
+0 0 2328 3354 rectclip
+0 966 moveto
+60 732 lineto
+stroke
+grestore
+0.00 0.00 0.00 setrgbcolor
+0 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+0 0 moveto
+2328 0 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+2328 0 moveto
+2328 3354 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+2328 3354 moveto
+0 3354 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+0 3354 moveto
+0 0 lineto
+stroke
+pgsave restore
+showpage
+%%Trailer
+%%Pages: 2
+%%EOF
