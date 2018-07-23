@@ -1,0 +1,6011 @@
+%!PS-Adobe-3.0
+%cupsJobTicket: media=A4
+%cupsJobTicket: sides=one-sided
+%cupsJobTicket: AP_D_InputSlot=
+%%Creator: Wine PostScript Driver
+%%Title: ea-eits-desafio
+%%BoundingBox: 18 18 576 823
+%%Pages: (atend)
+%%Orientation: Landscape
+%%EndComments
+%%BeginProlog
+/tmpmtrx matrix def
+/hatch {
+  pathbbox
+  /b exch def /r exch def /t exch def /l exch def /gap 32 def
+  l cvi gap idiv gap mul
+  gap
+  r cvi gap idiv gap mul
+  {t moveto 0 b t sub rlineto}
+  for
+} bind def
+/B {pop pop pop pop} def
+/N {newpath} def
+/havetype42gdir {version cvi 2015 ge} bind def
+%%EndProlog
+%%BeginSetup
+mark {
+%%BeginFeature: *PageSize A4
+<</PageSize[595 842]/ImagingBBox null>>setpagedevice
+%%EndFeature
+} stopped cleartomark
+mark {
+%%BeginFeature: *Duplex None
+<</Duplex false>>setpagedevice
+%%EndFeature
+} stopped cleartomark
+%%EndSetup
+%%Page: 1 1
+%%BeginPageSetup
+/pgsave save def
+72 300 div 72 300 div scale
+75 75 translate
+1 -1 scale
+-90 rotate
+%%EndPageSetup
+0.00 0.00 0.00 setrgbcolor
+0 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+0 36 moveto
+3354 0 rlineto
+0 2256 rlineto
+-3354 0 rlineto
+closepath
+gsave
+1.00 1.00 1.00 setrgbcolor
+fill
+grestore
+stroke
+%RoundRect
+1758 922 moveto
+tmpmtrx currentmatrix pop
+1765 922 translate
+15 -14 scale
+0 0 0.5 -180.0 -90.0 arc
+tmpmtrx setmatrix
+2426 929 lineto
+tmpmtrx currentmatrix pop
+2426 922 translate
+15 -14 scale
+0 0 0.5 -90.0 -0.0 arc
+tmpmtrx setmatrix
+2433 1127 lineto
+tmpmtrx currentmatrix pop
+2426 1127 translate
+15 -14 scale
+0 0 0.5 -0.0 90.0 arc
+tmpmtrx setmatrix
+2426 1120 lineto
+tmpmtrx currentmatrix pop
+1765 1127 translate
+15 -14 scale
+0 0 0.5 90.0 -180.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+%RoundRect
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1749 928 moveto
+tmpmtrx currentmatrix pop
+1756 928 translate
+15 15 scale
+0 0 0.5 -180.0 -90.0 arc
+tmpmtrx setmatrix
+2417 921 lineto
+tmpmtrx currentmatrix pop
+2417 928 translate
+15 15 scale
+0 0 0.5 -90.0 -0.0 arc
+tmpmtrx setmatrix
+2424 1104 lineto
+tmpmtrx currentmatrix pop
+2417 1104 translate
+15 15 scale
+0 0 0.5 -0.0 90.0 arc
+tmpmtrx setmatrix
+2417 1111 lineto
+tmpmtrx currentmatrix pop
+1756 1104 translate
+15 15 scale
+0 0 0.5 90.0 -180.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.78 0.94 0.78 setrgbcolor
+fill
+grestore
+stroke
+%RoundRect
+0.00 0.00 0.00 setrgbcolor
+1749 928 moveto
+tmpmtrx currentmatrix pop
+1756 928 translate
+15 15 scale
+0 0 0.5 -180.0 -90.0 arc
+tmpmtrx setmatrix
+2417 921 lineto
+tmpmtrx currentmatrix pop
+2417 928 translate
+15 15 scale
+0 0 0.5 -90.0 -0.0 arc
+tmpmtrx setmatrix
+2424 1104 lineto
+tmpmtrx currentmatrix pop
+2417 1104 translate
+15 15 scale
+0 0 0.5 -0.0 90.0 arc
+tmpmtrx setmatrix
+2417 1111 lineto
+tmpmtrx currentmatrix pop
+1756 1104 translate
+15 15 scale
+0 0 0.5 90.0 -180.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+gsave
+1887 918 moveto
+6 0 rlineto
+0 193 rlineto
+-6 0 rlineto
+closepath
+0.78 0.94 0.78 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+25 dict begin
+ /FontName /LiberationSans-Bold def
+ /Encoding 256 array 0 1 255{1 index exch /.notdef put} for def
+ /PaintType 0 def
+ /FontMatrix [1 2048 div 0 0 1 2048 div 0 0] def
+ /FontBBox [-987 -771 2671 2116] def
+ /FontType 1 def
+ /Private 7 dict begin
+  /RD {string currentfile exch readhexstring pop} def
+  /ND {def} def
+  /NP {put} def
+  /MinFeature {16 16} def
+  /BlueValues [] def
+  /password 5839 def
+  /lenIV -1 def
+ currentdict end def
+ currentdict dup /Private get begin
+  /CharStrings 256 dict begin
+   /.notdef 4 RD 8b8b0d0e ND
+  currentdict end put
+ end
+currentdict end dup /FontName get exch definefont pop
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1893 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.78 0.94 0.78 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1902 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.77 0.94 0.77 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1911 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.77 0.94 0.77 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1920 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.77 0.94 0.77 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1929 918 moveto
+6 0 rlineto
+0 193 rlineto
+-6 0 rlineto
+closepath
+0.77 0.94 0.77 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1935 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.77 0.93 0.77 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1944 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.76 0.93 0.76 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1953 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.76 0.93 0.76 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1962 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.76 0.93 0.76 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1971 918 moveto
+6 0 rlineto
+0 193 rlineto
+-6 0 rlineto
+closepath
+0.75 0.93 0.75 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1977 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.75 0.93 0.75 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1986 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.75 0.93 0.75 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1995 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.75 0.93 0.75 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2004 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.75 0.93 0.75 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2013 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.74 0.93 0.74 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2022 918 moveto
+6 0 rlineto
+0 193 rlineto
+-6 0 rlineto
+closepath
+0.74 0.93 0.74 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2028 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.74 0.93 0.74 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2037 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.73 0.93 0.73 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2046 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.73 0.93 0.73 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2055 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.73 0.93 0.73 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2064 918 moveto
+6 0 rlineto
+0 193 rlineto
+-6 0 rlineto
+closepath
+0.73 0.93 0.73 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2070 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.72 0.93 0.72 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2079 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.72 0.93 0.72 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2088 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.72 0.92 0.72 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2097 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.71 0.92 0.71 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2106 918 moveto
+6 0 rlineto
+0 193 rlineto
+-6 0 rlineto
+closepath
+0.71 0.92 0.71 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2112 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.71 0.92 0.71 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2121 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.71 0.92 0.71 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2130 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.71 0.92 0.71 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2139 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.70 0.92 0.70 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2148 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.70 0.92 0.70 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2157 918 moveto
+6 0 rlineto
+0 193 rlineto
+-6 0 rlineto
+closepath
+0.70 0.92 0.70 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2163 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.70 0.92 0.70 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2172 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.70 0.92 0.70 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2181 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.69 0.91 0.69 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2190 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.69 0.91 0.69 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2199 918 moveto
+6 0 rlineto
+0 193 rlineto
+-6 0 rlineto
+closepath
+0.69 0.91 0.69 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2205 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.68 0.91 0.68 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2214 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.68 0.91 0.68 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2223 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.68 0.91 0.68 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2232 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.68 0.91 0.68 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2241 918 moveto
+6 0 rlineto
+0 193 rlineto
+-6 0 rlineto
+closepath
+0.68 0.91 0.68 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2247 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.67 0.91 0.67 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2256 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.67 0.91 0.67 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2265 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.67 0.91 0.67 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2274 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.66 0.91 0.66 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2283 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.66 0.91 0.66 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2292 918 moveto
+6 0 rlineto
+0 193 rlineto
+-6 0 rlineto
+closepath
+0.66 0.91 0.66 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2298 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.66 0.91 0.66 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2307 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.65 0.91 0.65 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2316 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.65 0.91 0.65 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2325 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.65 0.91 0.65 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2334 918 moveto
+6 0 rlineto
+0 193 rlineto
+-6 0 rlineto
+closepath
+0.65 0.90 0.65 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2340 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.64 0.90 0.64 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2349 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.64 0.90 0.64 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2358 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.64 0.90 0.64 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2367 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.64 0.90 0.64 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2376 918 moveto
+6 0 rlineto
+0 193 rlineto
+-6 0 rlineto
+closepath
+0.63 0.90 0.63 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2382 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.63 0.90 0.63 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2391 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.63 0.90 0.63 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2400 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.62 0.90 0.62 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2409 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.62 0.90 0.62 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2418 918 moveto
+9 0 rlineto
+0 193 rlineto
+-9 0 rlineto
+closepath
+0.62 0.90 0.62 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1749 1111 moveto
+675 0 rlineto
+0 -190 rlineto
+-675 0 rlineto
+closepath
+stroke
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1779 918 moveto
+1779 1108 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+1785 918 moveto
+1785 1108 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+1800 958 moveto
+%%glyph 0035
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/R 119 RD
+f71dff000005c70dfa5c8b15fbdbf8ab
+05fbee8b058bfcab05fbbb8b058bff00
+00058105f9548b05f73c8bf71667e643
+08e642b9238bfb1b088b286f36534408
+53433f5c2c7408f811fce40509fc03fa
+65158bf71b34cffb418b08fc0e8b058b
+fc3405f8168b05de8bc99eb6b008b6b0
+a0c08bce08090e
+ND
+end end
+/R glyphshow
+1821 958 moveto
+%%glyph 0031
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/N 72 RD
+f71dff000005c70df9ee8b15fcfafad1
+05972291368b4b088bfdd305fb9a8b05
+8bff0000058105f7e58b05f903feda05
+7ff085e68bde088bf9c705f79a8b058b
+fffffffa7f05090e
+ND
+end end
+/N glyphshow
+1842 958 moveto
+%%glyph 0013
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/zero 182 RD
+dcff000004730dfa62f955158bfb8262
+fb483afb0f0839fb0ffb0f4ffb378a08
+fbd78cfb35f7858bf877088bf73d9df7
+1daef608aef6c0d9d2be08d2bee8a4f7
+088b08f73b8bf70e4fd8fb0d08d8fb0d
+b2fb498bfb860809fbae8b158bf71685
+f07ed3087ed377bf6faa086faa629b56
+8b08528b617b6e6c086e6b76577f4408
+7e4385268bfb16088bfb159227984308
+98429f57a86c08a76cb47bc18b08c08b
+b59ca8ac08a8aca0bf98d40898d491ed
+8bf71108090e
+ND
+end end
+/zero glyphshow
+1860 958 moveto
+/zero glyphshow
+1878 958 moveto
+/zero glyphshow
+1896 958 moveto
+%%glyph 0014
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/one 58 RD
+f715ff000004730d8b8b158bf76505f7
+f18b058bfa5505fbe6fb67058bf77105
+f7f5f77905f79e8b058bfffffffb5005
+f7d78b058bfb6505090e
+ND
+end end
+/one glyphshow
+1914 958 moveto
+%%glyph 0003
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/space 5 RD
+8bf8cd0d0e
+ND
+end end
+/space glyphshow
+1923 958 moveto
+%%glyph 0010
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/hyphen 22 RD
+dbf93e0d8bf82d158bf78805f89c8b05
+8bfb8805090e
+ND
+end end
+/hyphen glyphshow
+1932 958 moveto
+/space glyphshow
+1941 958 moveto
+%%glyph 0024
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/A 92 RD
+beff000005c70dface8b15fb11f7fc05
+fcad8b05fb11fbfc05fbbb8b05f896ff
+0000058105f7f08b05f894fffffffa7f
+0509fd42ff000004a815857505847383
+70826c08826c51fb3c22fbc708f8298b
+05fb1ff8290560f71c05090e
+ND
+end end
+/A glyphshow
+1962 958 moveto
+%%glyph 0058
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/u 109 RD
+f713ff000004e30df7adface158bfcf3
+058bfb52cb2cf7148b08cf8bc2a8b5c6
+08b4c5a0d68be6088bf8d805f7ad8b05
+8bfddc058b2f8e3a904608fba08b0583
+eb87d38bba08868b0566395b4f526608
+516646793c8a08fb078c33ad4ed2084e
+d16cf28bf71c088bf94305090e
+ND
+end end
+/u glyphshow
+1980 958 moveto
+%%glyph 0057
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/t 100 RD
+a4f93e0df81f7915388c4ca15eb8085e
+b875cf8be6088bf91205fb1d8b058bf7
+5205f72b8b05e3f79205f7448b058bfb
+9205f7618b058bfb5205fb618b058bfc
+c6058b5695659f72089f72aa7eb58b08
+a18baa90b494088bfb420546753c8032
+8a08090e
+ND
+end end
+/t glyphshow
+1989 958 moveto
+%%glyph 0052
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/o 141 RD
+dbff000004e30dfad7f8b2158bfb435a
+fb1e2a28082a27fb1b5afb408a08fb3d
+8cfb18bc2bef082bef5bf71d8bf74308
+8bf742bbf71debef08ebeef71abdf741
+8b08f7458bf71b5be82b08e82ab9fb1e
+8bfb490809fbba8b158bf71576e861c5
+0861c54ea83b8b08fb3f8b36fb0e8bfb
+89088bfb0da030b54c08b44cc76bda8b
+08f7418be1f70f8bf78b08090e
+ND
+end end
+/o glyphshow
+2007 958 moveto
+%%glyph 0050
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/m 182 RD
+f71bff0000071d0df9198b158bf8f305
+8bf75254eafb018b08528b5d6e685108
+675179408b2f088bfcd805fbad8b058b
+f9dc058bc58abb8ab00889b089ac89a8
+08f7a08b058d7e8e6a8e54088e548d65
+8b76088f8b05aedeb6c7bfb008beb0c9
+9ed38b08f7398bf03caefb3108918b05
+b0dfb7c7beb008beb0cd9dda8b08f48b
+dc67c24408c243a7248bfb1a088bfd43
+05fbab8b058bf8f3058bf75254eafb01
+8b08548b5f7168560868567741882e08
+8bfce505090e
+ND
+end end
+/m glyphshow
+2034 958 moveto
+%%glyph 0044
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/a 263 RD
+c7ff000004730df7e17715228c3aa750
+c40850c46edb8bf2088bf704b0e0d4c6
+08d4c6f4a9f71f8c08f77d8f058bc205
+8bd27fbf72ae0872ad639c538b08578b
+657f73740872737c64855408fbb99905
+9df4bbdbdac208d9c1f6a6f71b8b08f7
+1d8bf469d54808d548b02b8bfb10088b
+fc1e058b4e92629974089874a27fab8b
+08a08ba08d9f8f088bfb2c057a877c87
+7e88087e887d897e89087e897d897c8a
+087c8a798a778a08448c579b6aae0869
+ae77be84ce08858b053cfb22fb0a45fb
+338a0809f7dbf89d15fb2489054a885c
+84708008707f76797d73087c73846b8b
+63088b589765a37208a272ab7eb28b08
+b78bb397b0a308afa3a7aca0b608a0b5
+95b88bba08090e
+ND
+end end
+/a glyphshow
+2052 958 moveto
+/t glyphshow
+2061 958 moveto
+%%glyph 004c
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/i 47 RD
+f723f8cd0d8bff000004fd158bf76305
+f7ad8b058bfb630509fbadfffffffb03
+158bface05f7ad8b058bfece05090e
+ND
+end end
+/i glyphshow
+2070 958 moveto
+%%glyph 005d
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/z 47 RD
+ddfa940d8b8b158bf75b05f891f93c05
+fc688b058bf75f05f99e8b058bfb5d05
+fc8efd3805f8bf8b058bfb6105090e
+ND
+end end
+/z glyphshow
+2085 958 moveto
+/a glyphshow
+2103 958 moveto
+%%glyph 0055
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/r 107 RD
+f71bf9b10d938b158bf9d0058bc68abd
+8ab30889b289ae89aa08f7a08b058d7f
+8e678e4e088e4e8d628b77088f8b05a6
+d7a4c1a0aa08a0aaa5a2a89a08a89ab0
+92b78b08af8ba886a181088bfb7f055e
+956390688b08458b556f645208645277
+378bfb03088bfca705090e
+ND
+end end
+/r glyphshow
+2115 958 moveto
+/space glyphshow
+2124 958 moveto
+/o glyphshow
+2142 958 moveto
+/space glyphshow
+2151 958 moveto
+%%glyph 0048
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/e 146 RD
+dbff000004730df88e7715fb378cfb11
+ba34ec0834eb5ff7208bf74d088bf747
+b7f71de4eb08e4ebf711bbf7378b08f7
+2f8bf70b58dd2408dd24b4fb2b8bfb5b
+088b8305fd4a8b058b229f3bb25608b2
+55c270d38b08ee8bcab6a5e108f79d74
+053efb58fb2f2afb7f8a08098bfa4515
+498b5874685d08675d784b893808f838
+8b0586e276cd66b70866b65aa14d8b08
+090e
+ND
+end end
+/e glyphshow
+2169 958 moveto
+%%glyph 0051
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/n 122 RD
+f71bff000004e30df9598b158bf8f305
+8bf7524beafb158b08478b546e625108
+615076408b30088bfcd805fbad8b058b
+f9dc058bc58abb8ab00889b089ac89a8
+08f7a08b058d7e8e6a8e54088e548d65
+8b76088f8b05b1debbc7c4b008c4b0d0
+9eda8b08f7078be368c84408c844aa24
+8bfb1c088bfd4305090e
+ND
+end end
+/n glyphshow
+2187 958 moveto
+%%glyph 0059
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/v 60 RD
+93ff000004730df9678b15fbe48b05fc
+17face05f7bd8b05f751fcf105956aa3
+37b0fb190892a698bba0d008a0d0d7f7
+81f719f82908f7ba8b05090e
+ND
+end end
+/v glyphshow
+2205 958 moveto
+/i glyphshow
+2214 958 moveto
+/o glyphshow
+2232 958 moveto
+/space glyphshow
+2241 958 moveto
+%%glyph 0047
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/d 178 RD
+dfff000004e30df98c8b15889588a488
+b40887b389ac8ba608878b054efb17fb
+074bfb3e8a08fb128c2abb46ee0846ed
+69f71d8bf745088bf747aff71fd4ed08
+d3ecf1bcf7198b08d88bcd7bc36b08c2
+6bb65ba94c088d8b0589f746058bf81f
+05f7ad8b058bfffffffb20058b488e3d
+90300809fbb1f8b7158bf70978e564ca
+0864ca51aa3f8b08408b536d664e0866
+4e792d8bfb11088bfb89d5fb0ff7278b
+08d58bc4acb4cc08b4cc9fe78bf70c08
+090e
+ND
+end end
+/d glyphshow
+2259 958 moveto
+/e glyphshow
+2277 958 moveto
+/space glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+1800 991 moveto
+/i glyphshow
+1809 991 moveto
+/n glyphshow
+1827 991 moveto
+%%glyph 0049
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/f 96 RD
+aef93e0df84afa10158bfe1005fbac8b
+058bfa1005fb328b058bf75205f7328b
+058bf705058beda5d4bfba08bfbadaa3
+f58b08c08bc686cd80088bfb49057091
+6f8e708b085b8b698278780877788169
+8b5b088b3605f7698b058bfb5205090e
+ND
+end end
+/f glyphshow
+1836 991 moveto
+/o glyphshow
+1854 991 moveto
+/r glyphshow
+1866 991 moveto
+/m glyphshow
+1893 991 moveto
+/a glyphshow
+1911 991 moveto
+%%glyph 00a9
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/ccedilla 233 RD
+dbff000004730df8967715fb388cfb13
+bb32ed0832ec5ef71c8bf743088bf747
+b8f71fe5ef08e5eef714bdf7398b08f7
+138bf56bde4b08de4bc033a0fb0508fb
+af7d0583c277b86bac086bac5e9b508b
+08fb258b43fb0d8bfb86088bfb8dd5fb
+11f7278b08c08bb89cafad08afaca1bd
+94ce08f7ae7e05814171496051086051
+525e456c08456c3c7b348a0809f759fb
+6b158b4d715c576b08576b407b298a08
+6d8c698d668e088bf70a05a287a789ac
+8a08e68cb9a28bb8088ba3829d789608
+78966c915f8a08728c798a828908c9f7
+4005f7238b056a3905ca88b97caa7008
+a9709a678b5e08090e
+ND
+end end
+/ccedilla glyphshow
+1929 991 moveto
+%%glyph 00a5
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/atilde 395 RD
+c7ff000004730df7d97715228c3aa750
+c40850c46edb8bf2088bf704b0e0d4c6
+08d4c6f4a9f71f8c08f77d8f058bc205
+8bd27fbf72ae0872ad639c538b08578b
+657f73740872737c64855408fbb99905
+9df4bbdbdac208d9c1f6a6f71b8b08f7
+1d8bf469d54808d548b02b8bfb10088b
+fc1e058b4e92629974089874a27fab8b
+08a08ba08d9f8f088bfb2c057a877c87
+7e88087e887d897e89087e897d897c8a
+087c8a798a778a08448c579b6aae0869
+ae77be84ce08858b053cfb22fb0a45fb
+338a0809f7dbf89d15fb2489054a885c
+84708008707f76797d73087c73846b8b
+63088b589765a37208a272ab7eb28b08
+b78bb397b0a308afa3a7aca0b608a0b5
+95b88bba080992f975156e8b6d916e98
+086d986e996f9b086f9a719972980872
+987491778b08708b76837d7c087c7c7f
+69825808fb1d8b0590d696c49cb1089b
+b0a2a9aaa208aaa1b396be8b08a98ba9
+85a97e08a97ea87da77c08a77ba57da4
+7e08a37ea1859e8b08a68ba0939a9c08
+9a9b97ac94bc08f71b8b058622764066
+5e08655e5674468b08090e
+ND
+end end
+/atilde glyphshow
+1947 991 moveto
+/o glyphshow
+1965 991 moveto
+/space glyphshow
+1974 991 moveto
+/a glyphshow
+1992 991 moveto
+/space glyphshow
+2001 991 moveto
+/r glyphshow
+2013 991 moveto
+/e glyphshow
+2031 991 moveto
+%%glyph 0056
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/s 219 RD
+d3ff000004730dfa6bf7d0158b226039
+365008354ffb0b6efb2b8a08fb298cfb
+05a23cba083cba56d471ee08f78bb005
+9958a366ae7608ad76c780e08b08da8b
+c495af9f08af9f9daa8bb6088bae7da6
+6ea0086e9f599c469908fb33aa20a954
+a60854a661ae6eb6086eb67cbf8bca08
+8bf2b3dcdbc508dac4f705a8f7268b08
+f7158bf272da5908d959bc439e2c08fb
+8d710583b777ac6ca1086ca05996478b
+08488b59836a7a086a7a7a6e8b63088b
+6c9872a57908a478b67cc87f08e07ad6
+79cd7908cc78c075b37208b272ab6aa3
+6408a26397588b4d08090e
+ND
+end end
+/s glyphshow
+2049 991 moveto
+%%glyph 0053
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/p 181 RD
+f71bff000004e30dfa9cf8b6158bfb49
+67fb1f4329084228255bfb188a083f8c
+499b53ac0852ac60ba6dc908858b058f
+778d4e8b26088bfc3305fbad8b058bff
+000004ea058bf188de86cb08f7a58b05
+8e7f8e738e68088d688c688b68088f8b
+05caf719f708cdf73b8b08f7128bed5b
+d02a08d02aaefb1e8bfb470809fbb98b
+158bf78741f70dfb298b08408b526a64
+4a08634a772f8bfb09088bfb099f31b3
+4c08b24bc46bd48b08f72a8bd6f7118b
+f78d08090e
+ND
+end end
+/p glyphshow
+2067 991 moveto
+/e glyphshow
+2085 991 moveto
+/i glyphshow
+2094 991 moveto
+/t glyphshow
+2103 991 moveto
+/o glyphshow
+2121 991 moveto
+/space glyphshow
+2130 991 moveto
+/d glyphshow
+2148 991 moveto
+/o glyphshow
+2166 991 moveto
+/space glyphshow
+2175 991 moveto
+/s glyphshow
+2193 991 moveto
+/t glyphshow
+2202 991 moveto
+/a glyphshow
+2220 991 moveto
+/t glyphshow
+2229 991 moveto
+/u glyphshow
+2247 991 moveto
+/s glyphshow
+2265 991 moveto
+/space glyphshow
+2274 991 moveto
+/d glyphshow
+2292 991 moveto
+/a glyphshow
+2310 991 moveto
+/space glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+1800 1023 moveto
+/m glyphshow
+1827 1023 moveto
+/a glyphshow
+1845 1023 moveto
+/n glyphshow
+1863 1023 moveto
+/u glyphshow
+1881 1023 moveto
+/t glyphshow
+1890 1023 moveto
+/e glyphshow
+1908 1023 moveto
+/n glyphshow
+1926 1023 moveto
+/ccedilla glyphshow
+1944 1023 moveto
+/atilde glyphshow
+1962 1023 moveto
+/o glyphshow
+1980 1023 moveto
+/space glyphshow
+1989 1023 moveto
+/e glyphshow
+2007 1023 moveto
+/m glyphshow
+2034 1023 moveto
+/space glyphshow
+2043 1023 moveto
+/r glyphshow
+2055 1023 moveto
+/o glyphshow
+2073 1023 moveto
+/d glyphshow
+2091 1023 moveto
+/o glyphshow
+2109 1023 moveto
+/v glyphshow
+2127 1023 moveto
+/i glyphshow
+2136 1023 moveto
+/a glyphshow
+2154 1023 moveto
+/s glyphshow
+2172 1023 moveto
+%%glyph 0011
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/period 22 RD
+f71ff8cd0d8b8b158bf7c505f7b58b05
+8bfbc505090e
+ND
+end end
+/period glyphshow
+%RoundRect
+933 919 moveto
+tmpmtrx currentmatrix pop
+940 919 translate
+15 -14 scale
+0 0 0.5 -180.0 -90.0 arc
+tmpmtrx setmatrix
+1691 926 lineto
+tmpmtrx currentmatrix pop
+1691 919 translate
+15 -14 scale
+0 0 0.5 -90.0 -0.0 arc
+tmpmtrx setmatrix
+1698 1106 lineto
+tmpmtrx currentmatrix pop
+1691 1106 translate
+15 -14 scale
+0 0 0.5 -0.0 90.0 arc
+tmpmtrx setmatrix
+1691 1099 lineto
+tmpmtrx currentmatrix pop
+940 1106 translate
+15 -14 scale
+0 0 0.5 90.0 -180.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+%RoundRect
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+924 925 moveto
+tmpmtrx currentmatrix pop
+931 925 translate
+15 15 scale
+0 0 0.5 -180.0 -90.0 arc
+tmpmtrx setmatrix
+1682 918 lineto
+tmpmtrx currentmatrix pop
+1682 925 translate
+15 15 scale
+0 0 0.5 -90.0 -0.0 arc
+tmpmtrx setmatrix
+1689 1084 lineto
+tmpmtrx currentmatrix pop
+1682 1084 translate
+15 15 scale
+0 0 0.5 -0.0 90.0 arc
+tmpmtrx setmatrix
+1682 1091 lineto
+tmpmtrx currentmatrix pop
+931 1084 translate
+15 15 scale
+0 0 0.5 90.0 -180.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.78 0.94 0.78 setrgbcolor
+fill
+grestore
+stroke
+%RoundRect
+0.00 0.00 0.00 setrgbcolor
+924 925 moveto
+tmpmtrx currentmatrix pop
+931 925 translate
+15 15 scale
+0 0 0.5 -180.0 -90.0 arc
+tmpmtrx setmatrix
+1682 918 lineto
+tmpmtrx currentmatrix pop
+1682 925 translate
+15 15 scale
+0 0 0.5 -90.0 -0.0 arc
+tmpmtrx setmatrix
+1689 1084 lineto
+tmpmtrx currentmatrix pop
+1682 1084 translate
+15 15 scale
+0 0 0.5 -0.0 90.0 arc
+tmpmtrx setmatrix
+1682 1091 lineto
+tmpmtrx currentmatrix pop
+931 1084 translate
+15 15 scale
+0 0 0.5 90.0 -180.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+gsave
+1080 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.78 0.94 0.78 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1089 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.78 0.94 0.78 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1098 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.77 0.94 0.77 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1107 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.77 0.94 0.77 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1116 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.77 0.94 0.77 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1125 915 moveto
+12 0 rlineto
+0 176 rlineto
+-12 0 rlineto
+closepath
+0.77 0.94 0.77 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1137 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.77 0.93 0.77 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1146 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.76 0.93 0.76 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1155 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.76 0.93 0.76 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1164 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.76 0.93 0.76 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1173 915 moveto
+12 0 rlineto
+0 176 rlineto
+-12 0 rlineto
+closepath
+0.75 0.93 0.75 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1185 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.75 0.93 0.75 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1194 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.75 0.93 0.75 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1203 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.75 0.93 0.75 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1212 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.75 0.93 0.75 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1221 915 moveto
+12 0 rlineto
+0 176 rlineto
+-12 0 rlineto
+closepath
+0.74 0.93 0.74 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1233 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.74 0.93 0.74 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1242 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.74 0.93 0.74 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1251 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.73 0.93 0.73 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1260 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.73 0.93 0.73 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1269 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.73 0.93 0.73 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1278 915 moveto
+12 0 rlineto
+0 176 rlineto
+-12 0 rlineto
+closepath
+0.73 0.93 0.73 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1290 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.72 0.93 0.72 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1299 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.72 0.93 0.72 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1308 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.72 0.92 0.72 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1317 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.71 0.92 0.71 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1326 915 moveto
+12 0 rlineto
+0 176 rlineto
+-12 0 rlineto
+closepath
+0.71 0.92 0.71 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1338 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.71 0.92 0.71 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1347 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.71 0.92 0.71 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1356 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.71 0.92 0.71 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1365 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.70 0.92 0.70 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1374 915 moveto
+12 0 rlineto
+0 176 rlineto
+-12 0 rlineto
+closepath
+0.70 0.92 0.70 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1386 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.70 0.92 0.70 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1395 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.70 0.92 0.70 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1404 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.70 0.92 0.70 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1413 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.69 0.91 0.69 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1422 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.69 0.91 0.69 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1431 915 moveto
+12 0 rlineto
+0 176 rlineto
+-12 0 rlineto
+closepath
+0.69 0.91 0.69 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1443 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.68 0.91 0.68 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1452 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.68 0.91 0.68 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1461 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.68 0.91 0.68 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1470 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.68 0.91 0.68 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1479 915 moveto
+12 0 rlineto
+0 176 rlineto
+-12 0 rlineto
+closepath
+0.68 0.91 0.68 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1491 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.67 0.91 0.67 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1500 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.67 0.91 0.67 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1509 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.67 0.91 0.67 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1518 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.66 0.91 0.66 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1527 915 moveto
+12 0 rlineto
+0 176 rlineto
+-12 0 rlineto
+closepath
+0.66 0.91 0.66 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1539 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.66 0.91 0.66 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1548 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.66 0.91 0.66 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1557 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.65 0.91 0.65 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1566 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.65 0.91 0.65 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1575 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.65 0.91 0.65 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1584 915 moveto
+12 0 rlineto
+0 176 rlineto
+-12 0 rlineto
+closepath
+0.65 0.90 0.65 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1596 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.64 0.90 0.64 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1605 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.64 0.90 0.64 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1614 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.64 0.90 0.64 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1623 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.64 0.90 0.64 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1632 915 moveto
+12 0 rlineto
+0 176 rlineto
+-12 0 rlineto
+closepath
+0.63 0.90 0.63 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1644 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.63 0.90 0.63 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1653 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.63 0.90 0.63 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1662 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.62 0.90 0.62 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1671 915 moveto
+9 0 rlineto
+0 176 rlineto
+-9 0 rlineto
+closepath
+0.62 0.90 0.62 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1680 915 moveto
+12 0 rlineto
+0 176 rlineto
+-12 0 rlineto
+closepath
+0.62 0.90 0.62 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+924 1091 moveto
+765 0 rlineto
+0 -173 rlineto
+-765 0 rlineto
+closepath
+stroke
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+954 915 moveto
+954 1088 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+960 915 moveto
+960 1088 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+975 955 moveto
+/R glyphshow
+996 955 moveto
+/N glyphshow
+1017 955 moveto
+/zero glyphshow
+1035 955 moveto
+/zero glyphshow
+1053 955 moveto
+/zero glyphshow
+1071 955 moveto
+%%glyph 0015
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/two 155 RD
+d2ff000004730d8b8b158bf75705b0dc
+bfd9cfd808ced8e0dbf2de08eedbd0cd
+b3bf08b2bf9fbe8bbd088bf70f4dc8fb
+0f8b084f8b5d7b6c6b086b6a765b824a
+08fbaf9b059bf717bceeddd008dcd0f7
+03adf7218b08f72c8bf70968dc4608dc
+46b4298bfb11088b497e4f7156087156
+6a5a625e08625e5e605a640859645b64
+5c66085c66616565650864656f627860
+08f9228b058bfb7b05090e
+ND
+end end
+/two glyphshow
+1089 955 moveto
+/space glyphshow
+1098 955 moveto
+/hyphen glyphshow
+1107 955 moveto
+/space glyphshow
+1116 955 moveto
+/R glyphshow
+1137 955 moveto
+/e glyphshow
+1155 955 moveto
+/d glyphshow
+1173 955 moveto
+/u glyphshow
+1191 955 moveto
+/z glyphshow
+1206 955 moveto
+/i glyphshow
+1215 955 moveto
+/r glyphshow
+1227 955 moveto
+/space glyphshow
+1236 955 moveto
+%%glyph 0018
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/five 150 RD
+caff000004730dfa8ff869158bfb295d
+fb0b2e33082e32fb1460fb368a08fb21
+8cfb05aa36cb0836ca56e777f70d08f7
+ada2059a4fa55fb07008b070ba7dc48b
+08d18bc3a1b5b808b4b8a0cb8bdf088b
+d577c664b80864b754a1448b083d8b4b
+6d5a4e08fba68b05bcf9ad05f9e38b05
+8bfb6505fce48b0574fbf805cfc7e0a9
+f18b08f71a8bf661dc3808db38b3fb06
+8bfb2308090e
+ND
+end end
+/five glyphshow
+1254 955 moveto
+/zero glyphshow
+1272 955 moveto
+%%glyph 0008
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/percent 310 RD
+beff0000071d0dff000006b4f844158b
+fb256dfb034f3e084f3e3366fb088a08
+fb098c32b050d70850d76df7038bf727
+088bf729a8f705c4d608c4d6e6b0f710
+8b08f70c8be365c44008c43fa7fb048b
+fb280809fffffffb41fc4415fb628b05
+fa2cff0000058105f7658b0509febf9b
+15f70b8be465c54008c440a8fb048bfb
+28088bfb256dfb034f3e084e3e3264fb
+098b08fb088b33b150d80850d76df703
+8bf727088bf72ba8f705c4d508c4d4e6
+b0f70f8b0809ff00000478fe75158bf5
+81d777b80876b868a25a8b08568b6674
+775d08765d81408b22088b209640a060
+08a05faf75bd8b08bc8baea2a0b808a0
+b896d68bf20809fe85f8b5158bf481d6
+77b80876b868a25a8b08568b6675765e
+08765e813f8b22088b229640a15e08a0
+5eaf74bd8b08bc8bafa2a0b808a0b895
+d68bf408090e
+ND
+end end
+/percent glyphshow
+1299 955 moveto
+/space glyphshow
+1308 955 moveto
+/d glyphshow
+1326 955 moveto
+/a glyphshow
+1344 955 moveto
+/space glyphshow
+1353 955 moveto
+/r glyphshow
+1365 955 moveto
+/e glyphshow
+1383 955 moveto
+/i glyphshow
+1392 955 moveto
+/n glyphshow
+1410 955 moveto
+%%glyph 0046
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/c 142 RD
+dbff000004730df8967715fb388cfb13
+bb32ed0832ec5ef71c8bf743088bf747
+b8f71fe5ef08e5eef714bdf7398b08f7
+138bf56bde4b08de4bc033a0fb0508fb
+af7d0583c277b86bac086bac5e9b508b
+08fb258b43fb0d8bfb86088bfb8dd5fb
+11f7278b08c08bb89cafad08afaca1bd
+94ce08f7ae7e05814171496051086051
+525e456c08456c3c7b348a08090e
+ND
+end end
+/c glyphshow
+1428 955 moveto
+/i glyphshow
+1437 955 moveto
+/c glyphshow
+1455 955 moveto
+/e glyphshow
+1473 955 moveto
+/n glyphshow
+1491 955 moveto
+/c glyphshow
+1509 955 moveto
+/i glyphshow
+1518 955 moveto
+/a glyphshow
+1536 955 moveto
+/space glyphshow
+1545 955 moveto
+/d glyphshow
+1563 955 moveto
+/e glyphshow
+1581 955 moveto
+/space glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+975 988 moveto
+/r glyphshow
+987 988 moveto
+/e glyphshow
+1005 988 moveto
+%%glyph 004a
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/g 230 RD
+dfff000004e30df894fc4615fb188c21
+a43bbd083abe5ad278e808f7adac0595
+60a16aac7208ac72b67fc08a08d98cc4
+a3afbb08afbb9dd28be9088bc4058df6
+05898b054dfb19fb0849fb3e8b08fb12
+8b29ba46ea0846ea68f71b8bf744088b
+f745aff71cd2eb08d2ebf3bbf71c8b08
+f7318bf7014ac8fb1608908b058ba28d
+ab8eb3088eb38ea58e9808f79e8b0587
+4389388b2c088bfdb3058bfb2d5ffb08
+343c08343cfb1364fb3b8a0809f77ffa
+72158bf70377e264ca0863c952aa428b
+08fb2a8b40fb0c8bfb84088bfb7fd5fb
+0af7298b08d68bc4aab3ca08b2c99fe3
+8bf70708090e
+ND
+end end
+/g glyphshow
+1023 988 moveto
+/i glyphshow
+1032 988 moveto
+/s glyphshow
+1050 988 moveto
+/t glyphshow
+1059 988 moveto
+/r glyphshow
+1071 988 moveto
+/o glyphshow
+1089 988 moveto
+/s glyphshow
+1107 988 moveto
+/space glyphshow
+1116 988 moveto
+/d glyphshow
+1134 988 moveto
+/e glyphshow
+1152 988 moveto
+/space glyphshow
+1161 988 moveto
+/m glyphshow
+1188 988 moveto
+/a glyphshow
+1206 988 moveto
+/n glyphshow
+1224 988 moveto
+/u glyphshow
+1242 988 moveto
+/t glyphshow
+1251 988 moveto
+/e glyphshow
+1269 988 moveto
+/n glyphshow
+1287 988 moveto
+/ccedilla glyphshow
+1305 988 moveto
+/atilde glyphshow
+1323 988 moveto
+/o glyphshow
+1341 988 moveto
+/space glyphshow
+1350 988 moveto
+/e glyphshow
+1368 988 moveto
+/m glyphshow
+1395 988 moveto
+/space glyphshow
+1404 988 moveto
+/r glyphshow
+1416 988 moveto
+/o glyphshow
+1434 988 moveto
+/d glyphshow
+1452 988 moveto
+/o glyphshow
+1470 988 moveto
+/v glyphshow
+1488 988 moveto
+/i glyphshow
+1497 988 moveto
+/a glyphshow
+1515 988 moveto
+/period glyphshow
+%RoundRect
+1857 1236 moveto
+tmpmtrx currentmatrix pop
+1864 1236 translate
+15 -14 scale
+0 0 0.5 -180.0 -90.0 arc
+tmpmtrx setmatrix
+2327 1243 lineto
+tmpmtrx currentmatrix pop
+2327 1236 translate
+15 -14 scale
+0 0 0.5 -90.0 -0.0 arc
+tmpmtrx setmatrix
+2334 1335 lineto
+tmpmtrx currentmatrix pop
+2327 1335 translate
+15 -14 scale
+0 0 0.5 -0.0 90.0 arc
+tmpmtrx setmatrix
+2327 1328 lineto
+tmpmtrx currentmatrix pop
+1864 1335 translate
+15 -14 scale
+0 0 0.5 90.0 -180.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+%RoundRect
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1848 1241 moveto
+tmpmtrx currentmatrix pop
+1855 1241 translate
+15 15 scale
+0 0 0.5 -180.0 -90.0 arc
+tmpmtrx setmatrix
+2318 1234 lineto
+tmpmtrx currentmatrix pop
+2318 1241 translate
+15 15 scale
+0 0 0.5 -90.0 -0.0 arc
+tmpmtrx setmatrix
+2325 1312 lineto
+tmpmtrx currentmatrix pop
+2318 1312 translate
+15 15 scale
+0 0 0.5 -0.0 90.0 arc
+tmpmtrx setmatrix
+2318 1319 lineto
+tmpmtrx currentmatrix pop
+1855 1312 translate
+15 15 scale
+0 0 0.5 90.0 -180.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.78 0.94 0.78 setrgbcolor
+fill
+grestore
+stroke
+%RoundRect
+0.00 0.00 0.00 setrgbcolor
+1848 1241 moveto
+tmpmtrx currentmatrix pop
+1855 1241 translate
+15 15 scale
+0 0 0.5 -180.0 -90.0 arc
+tmpmtrx setmatrix
+2318 1234 lineto
+tmpmtrx currentmatrix pop
+2318 1241 translate
+15 15 scale
+0 0 0.5 -90.0 -0.0 arc
+tmpmtrx setmatrix
+2325 1312 lineto
+tmpmtrx currentmatrix pop
+2318 1312 translate
+15 15 scale
+0 0 0.5 -0.0 90.0 arc
+tmpmtrx setmatrix
+2318 1319 lineto
+tmpmtrx currentmatrix pop
+1855 1312 translate
+15 15 scale
+0 0 0.5 90.0 -180.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+gsave
+1944 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.78 0.94 0.78 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1950 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.78 0.94 0.78 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1956 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.77 0.94 0.77 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1962 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.77 0.94 0.77 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1968 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.77 0.94 0.77 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1974 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.77 0.94 0.77 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1980 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.77 0.93 0.77 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1986 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.76 0.93 0.76 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1992 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.76 0.93 0.76 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1998 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.76 0.93 0.76 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2004 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.75 0.93 0.75 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2010 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.75 0.93 0.75 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2016 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.75 0.93 0.75 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2022 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.75 0.93 0.75 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2028 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.75 0.93 0.75 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2034 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.74 0.93 0.74 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2040 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.74 0.93 0.74 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2046 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.74 0.93 0.74 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2052 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.73 0.93 0.73 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2058 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.73 0.93 0.73 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2064 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.73 0.93 0.73 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2070 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.73 0.93 0.73 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2076 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.72 0.93 0.72 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2082 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.72 0.93 0.72 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2088 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.72 0.92 0.72 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2094 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.71 0.92 0.71 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2100 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.71 0.92 0.71 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2106 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.71 0.92 0.71 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2112 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.71 0.92 0.71 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2118 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.71 0.92 0.71 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2124 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.70 0.92 0.70 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2130 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.70 0.92 0.70 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2136 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.70 0.92 0.70 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2142 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.70 0.92 0.70 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2148 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.70 0.92 0.70 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2154 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.69 0.91 0.69 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2160 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.69 0.91 0.69 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2166 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.69 0.91 0.69 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2172 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.68 0.91 0.68 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2178 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.68 0.91 0.68 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2184 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.68 0.91 0.68 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2190 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.68 0.91 0.68 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2196 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.68 0.91 0.68 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2202 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.67 0.91 0.67 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2208 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.67 0.91 0.67 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2214 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.67 0.91 0.67 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2220 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.66 0.91 0.66 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2226 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.66 0.91 0.66 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2232 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.66 0.91 0.66 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2238 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.66 0.91 0.66 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2244 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.65 0.91 0.65 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2250 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.65 0.91 0.65 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2256 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.65 0.91 0.65 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2262 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.65 0.90 0.65 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2268 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.64 0.90 0.64 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2274 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.64 0.90 0.64 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2280 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.64 0.90 0.64 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2286 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.64 0.90 0.64 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2292 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.63 0.90 0.63 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2298 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.63 0.90 0.63 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2304 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.63 0.90 0.63 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2310 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.62 0.90 0.62 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2316 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.62 0.90 0.62 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+2322 1231 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.62 0.90 0.62 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1848 1319 moveto
+477 0 rlineto
+0 -85 rlineto
+-477 0 rlineto
+closepath
+stroke
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1878 1231 moveto
+1878 1317 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+1884 1231 moveto
+1884 1317 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+1899 1272 moveto
+/R glyphshow
+1920 1272 moveto
+%%glyph 0029
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/F 57 RD
+f71dff000004e30df7bbff0000049d15
+8bfc4805f9658b058bfb7805fd658b05
+8bfc9905fbbb8b058bff0000058105fa
+a38b058bfb7805090e
+ND
+end end
+/F glyphshow
+1938 1272 moveto
+/A glyphshow
+1959 1272 moveto
+/zero glyphshow
+1977 1272 moveto
+/zero glyphshow
+1995 1272 moveto
+/zero glyphshow
+2013 1272 moveto
+/one glyphshow
+2031 1272 moveto
+/space glyphshow
+2040 1272 moveto
+/hyphen glyphshow
+2049 1272 moveto
+/space glyphshow
+2058 1272 moveto
+%%glyph 0030
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/M 122 RD
+f71dff000006aa0dff000004928b158b
+f9ea058b9e8b9f8c9e088b9e8ede91f7
+27085cfb4768fb11744408fb92fda605
+fb668b05fb92f9a60520f80b0593fb2f
+8f258b59088bfdea05fb9a8b058bff00
+00058105f81f8b05f790fda805a13f05
+bbfb5105caf77605f797f9cf05f81d8b
+058bfffffffa7f05090e
+ND
+end end
+/M glyphshow
+2082 1272 moveto
+/a glyphshow
+2100 1272 moveto
+/n glyphshow
+2118 1272 moveto
+/t glyphshow
+2127 1272 moveto
+/e glyphshow
+2145 1272 moveto
+/r glyphshow
+2157 1272 moveto
+/space glyphshow
+2166 1272 moveto
+/u glyphshow
+2184 1272 moveto
+/s glyphshow
+2202 1272 moveto
+/u glyphshow
+2220 1272 moveto
+%%glyph 00a3
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/aacute 289 RD
+c7ff000004730df7d97715228c3aa750
+c40850c46edb8bf2088bf704b0e0d4c6
+08d4c6f4a9f71f8c08f77d8f058bc205
+8bd27fbf72ae0872ad639c538b08578b
+657f73740872737c64855408fbb99905
+9df4bbdbdac208d9c1f6a6f71b8b08f7
+1d8bf469d54808d548b02b8bfb10088b
+fc1e058b4e92629974089874a27fab8b
+08a08ba08d9f8f088bfb2c057a877c87
+7e88087e887d897e89087e897d897c8a
+087c8a798a778a08448c579b6aae0869
+ae77be84ce08858b053cfb22fb0a45fb
+338a0809f7dbf89d15fb2489054a885c
+84708008707f76797d73087c73846b8b
+63088b589765a37208a272ab7eb28b08
+b78bb397b0a308afa3a7aca0b608a0b5
+95b88bba0809fbe5f975158baa05f790
+f7b405f7968b058b6005fbe8fba80509
+0e
+ND
+end end
+/aacute glyphshow
+2238 1272 moveto
+/r glyphshow
+2250 1272 moveto
+/i glyphshow
+2259 1272 moveto
+/o glyphshow
+0.00 0.00 0.00 setrgbcolor
+25 dict begin
+ /FontName /LiberationSans-Italic def
+ /Encoding 256 array 0 1 255{1 index exch /.notdef put} for def
+ /PaintType 0 def
+ /FontMatrix [1 2048 div 0 0 1 2048 div 0 0] def
+ /FontBBox [-1360 -621 2787 2077] def
+ /FontType 1 def
+ /Private 7 dict begin
+  /RD {string currentfile exch readhexstring pop} def
+  /ND {def} def
+  /NP {put} def
+  /MinFeature {16 16} def
+  /BlueValues [] def
+  /password 5839 def
+  /lenIV -1 def
+ currentdict end def
+ currentdict dup /Private get begin
+  /CharStrings 256 dict begin
+   /.notdef 4 RD 8b8b0d0e ND
+  currentdict end put
+ end
+currentdict end dup /FontName get exch definefont pop
+/LiberationSans-Italic findfont
+[29 0 0 -29 0 0]
+makefont setfont
+1992 1360 moveto
+%%glyph 000b
+/LiberationSans-Italic findfont dup
+/Private get begin
+/CharStrings get begin
+/parenleft 74 RD
+ebf93e0df98bff000005cc15fc15fbe7
+fb55fc2c8bfc6f088bfb97d0fb78f71e
+fb5b08fb428b05fb23f75a44f77d8bf7
+a3088bf78cbdf776eff76108eff761f7
+25f743f752f72708090e
+ND
+end end
+/parenleft glyphshow
+2001 1360 moveto
+%%glyph 0049
+/LiberationSans-Italic findfont dup
+/Private get begin
+/CharStrings get begin
+/f 104 RD
+d0f8cd0df801fa4b15fb4dfe4b05fb48
+8b05f74dfa4b05fb2c8b05a5f71705f7
+2c8b05a2f70e059ad6a0c3a4b008a4b0
+aca7b49e08b49ec094cc8b08bc8bb587
+ac830871fb1d055e91055d8d05618b6b
+807576087475795f7e4908782a05f767
+8b0571fb1705090e
+ND
+end end
+/f glyphshow
+2010 1360 moveto
+%%glyph 0055
+/LiberationSans-Italic findfont dup
+/Private get begin
+/CharStrings get begin
+/r 87 RD
+adf93e0df940fa3e156e946d8f6c8b08
+458b4c665342085242652e77fb0308fb
+02fcc805fb488b05f736f9d205a4f71e
+059df70605f73e8b0568fb71058f8b05
+b7e4b6c9b6af08b6afbc9dc38b08aa8b
+aa86ac8208090e
+ND
+end end
+/r glyphshow
+2019 1360 moveto
+%%glyph 0052
+/LiberationSans-Italic findfont dup
+/Private get begin
+/CharStrings get begin
+/o 175 RD
+ceff000004730dfa83f93f158b347e31
+702e08702d653c5a4a08594a4e5a436b
+08436b397b2f8a08fb178c24b13fda08
+3fda65f68bf71b088ef71ca3f70dbaf4
+08baf4cbdbdec108dec1f1a6f70e8b08
+f7208bf667d54208d542b0248bfb1908
+09fb4e8b158bf75338eafb398b08318b
+4374555d08545c61456d2d086d2d7c30
+8b33088b28a040b65808b657c971dc8b
+08d08bc297b5a208b4a2b0afaabc08aa
+bca5c99fd7089ed797db8edf08090e
+ND
+end end
+/o glyphshow
+2037 1360 moveto
+%%glyph 0050
+/LiberationSans-Italic findfont dup
+/Private get begin
+/CharStrings get begin
+/m 212 RD
+adff000006aa0df9068b15f710f90e05
+9cde93c58bac088bbd7eb172a60872a5
+6198528b083e8b476a52490851496535
+792008fb0afcf005fb478b05f73af9e7
+0598ca98d898e608f73e8b058b848871
+845f08845e85678670088e8b05bcd7bc
+c0bca908bca9c59acf8b08dc8bcb77ba
+6408ba63a851944008c2e2c2c7c1ad08
+c0adc99cd08b08e58bd073bc5a08bb5a
+a3458b2f088b6084557d4808fb13fd21
+05fb468b05f710f90e059cde93c58bac
+088bbd7eb172a60872a56198528b083e
+8b476b524a08524a6535782008fb0afc
+f305090e
+ND
+end end
+/m glyphshow
+2061 1360 moveto
+%%glyph 0003
+/LiberationSans-Italic findfont dup
+/Private get begin
+/CharStrings get begin
+/space 5 RD
+8bf8cd0d0e
+ND
+end end
+/space glyphshow
+2070 1360 moveto
+%%glyph 0038
+/LiberationSans-Italic findfont dup
+/Private get begin
+/CharStrings get begin
+/U 126 RD
+f72dff000005c70df8897715fb2f8cfb
+0fb232dc0832db5ef7028bf720088ba8
+8eaf90b40890b490ab90a408f72af99a
+05f7538b05fb36fddf058051855b8b66
+088b30a845c65808c558dc72f48b08f7
+948bf72ef71bbef7a308f73cf9f805f7
+528b05fb3efe030567fb4a41fb1dfb04
+2f08fb042efb285efb4b8a08090e
+ND
+end end
+/U glyphshow
+2091 1360 moveto
+%%glyph 0056
+/LiberationSans-Italic findfont dup
+/Private get begin
+/CharStrings get begin
+/s 211 RD
+90fa940dfa1af7d1158bfb0062383851
+083850fb0b6ffb308a08fb088c2f9e47
+b20846b25bc870df08f727c305a150ad
+61ba7008b970c97ed98b08ea8bd49bbc
+ac08bcaba4ba8bc9088bb47aae69a708
+69a643aafb02ad0836a74ba660a60860
+a66baa74af0874ae80b58bba088becb2
+d5d8c008d8bff701a5f7218b08f7808b
+f71936a8fb3e08fb3772057cc070b162
+a20862a25597468b08388b4c7e5f7108
+5e7075668b5b088b6f92739978089978
+9f7aa67c08a57cc874ea6d08e070cb70
+b67008b670ac6aa36608a366975f8b58
+08090e
+ND
+end end
+/s glyphshow
+2106 1360 moveto
+%%glyph 0058
+/LiberationSans-Italic findfont dup
+/Private get begin
+/CharStrings get begin
+/u 132 RD
+e1ff000004730df7ddface15fb12fd19
+057f5085598b62088bfb03c753f70b8b
+08df8bd5abcbcb08cbcbb6e2a0f70108
+f70af8f205f7488b05fb3afde7057e4c
+7e3e7e3008fb3e8b058b928fa592b808
+92b790af90a608888b05543e5356546e
+08536e497c3e8a08288c41a25abc0859
+bc72d18be7088bb692c199ce08f713f9
+2105090e
+ND
+end end
+/u glyphshow
+2124 1360 moveto
+%%glyph 00a3
+/LiberationSans-Italic findfont dup
+/Private get begin
+/CharStrings get begin
+/aacute 293 RD
+b9ff000004730dfa0b81154d8c5e976f
+a5086ea47db18bbe0890cb05858b0554
+375150506a08506a437a378a082e8c3f
+a651c30850c36ed28be2088bf70fb7e9
+e4ca08e3caf721acf7558e08f77c8e05
+98cc91b68b9e088bc879b868a80868a8
+5a994c8b083c8b4f7d626f08626e6e60
+795108fb46a805a9edbfd2d6b808d5b7
+efa1f7118b08f7068be570ce5608cd56
+ac438b31088b6085577e4d0841fc0e05
+846b876e8b70088b5aa673c18b089d8b
+9f8da190087dfb04055f816086628a08
+09fb0af8b615fb5b87053c894c845e7f
+085e7e687c727808727877737d6e087c
+6e84678b62088b599b62ac6c08ab6cb5
+7bbe8b08cc8bc599bfa708bfa6b6afad
+b808adb8a1bb96be0809fb8cf9aa158e
+9f05f791f7b305f76d8b05866e05fc0a
+fbaa05090e
+ND
+end end
+/aacute glyphshow
+2142 1360 moveto
+/r glyphshow
+2151 1360 moveto
+%%glyph 004c
+/LiberationSans-Italic findfont dup
+/Private get begin
+/CharStrings get begin
+/i 49 RD
+acf85b0df792ff0000052015adf74005
+f7488b0569fb400509fc46fffffffae0
+15f766face05f7488b05fb67fece0509
+0e
+ND
+end end
+/i glyphshow
+2157 1360 moveto
+/o glyphshow
+2175 1360 moveto
+%%glyph 000c
+/LiberationSans-Italic findfont dup
+/Private get begin
+/CharStrings get begin
+/parenright 71 RD
+fb5bf93e0d8bfc3c15f815f7e8f755f8
+2b8bf86f088bf79746f779fb1ef75a08
+f7428b05f723fb59d2fb7e8bfba3088b
+fb8c59fb7627fb610827fb60fb25fb44
+fb52fb2708090e
+ND
+end end
+/parenright glyphshow
+%RoundRect
+1083 1263 moveto
+tmpmtrx currentmatrix pop
+1090 1263 translate
+15 -14 scale
+0 0 0.5 -180.0 -90.0 arc
+tmpmtrx setmatrix
+1553 1270 lineto
+tmpmtrx currentmatrix pop
+1553 1263 translate
+15 -14 scale
+0 0 0.5 -90.0 -0.0 arc
+tmpmtrx setmatrix
+1560 1362 lineto
+tmpmtrx currentmatrix pop
+1553 1362 translate
+15 -14 scale
+0 0 0.5 -0.0 90.0 arc
+tmpmtrx setmatrix
+1553 1355 lineto
+tmpmtrx currentmatrix pop
+1090 1362 translate
+15 -14 scale
+0 0 0.5 90.0 -180.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.87 0.87 0.87 setrgbcolor
+fill
+grestore
+newpath
+%RoundRect
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1074 1268 moveto
+tmpmtrx currentmatrix pop
+1081 1268 translate
+15 15 scale
+0 0 0.5 -180.0 -90.0 arc
+tmpmtrx setmatrix
+1544 1261 lineto
+tmpmtrx currentmatrix pop
+1544 1268 translate
+15 15 scale
+0 0 0.5 -90.0 -0.0 arc
+tmpmtrx setmatrix
+1551 1339 lineto
+tmpmtrx currentmatrix pop
+1544 1339 translate
+15 15 scale
+0 0 0.5 -0.0 90.0 arc
+tmpmtrx setmatrix
+1544 1346 lineto
+tmpmtrx currentmatrix pop
+1081 1339 translate
+15 15 scale
+0 0 0.5 90.0 -180.0 arc
+tmpmtrx setmatrix
+closepath
+gsave
+0.78 0.94 0.78 setrgbcolor
+fill
+grestore
+stroke
+%RoundRect
+0.00 0.00 0.00 setrgbcolor
+1074 1268 moveto
+tmpmtrx currentmatrix pop
+1081 1268 translate
+15 15 scale
+0 0 0.5 -180.0 -90.0 arc
+tmpmtrx setmatrix
+1544 1261 lineto
+tmpmtrx currentmatrix pop
+1544 1268 translate
+15 15 scale
+0 0 0.5 -90.0 -0.0 arc
+tmpmtrx setmatrix
+1551 1339 lineto
+tmpmtrx currentmatrix pop
+1544 1339 translate
+15 15 scale
+0 0 0.5 -0.0 90.0 arc
+tmpmtrx setmatrix
+1544 1346 lineto
+tmpmtrx currentmatrix pop
+1081 1339 translate
+15 15 scale
+0 0 0.5 90.0 -180.0 arc
+tmpmtrx setmatrix
+closepath
+stroke
+gsave
+1170 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.78 0.94 0.78 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1176 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.78 0.94 0.78 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1182 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.77 0.94 0.77 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1188 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.77 0.94 0.77 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1194 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.77 0.94 0.77 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1200 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.77 0.94 0.77 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1206 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.77 0.93 0.77 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1212 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.76 0.93 0.76 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1218 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.76 0.93 0.76 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1224 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.76 0.93 0.76 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1230 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.75 0.93 0.75 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1236 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.75 0.93 0.75 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1242 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.75 0.93 0.75 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1248 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.75 0.93 0.75 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1254 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.75 0.93 0.75 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1260 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.74 0.93 0.74 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1266 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.74 0.93 0.74 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1272 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.74 0.93 0.74 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1278 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.73 0.93 0.73 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1284 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.73 0.93 0.73 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1290 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.73 0.93 0.73 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1296 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.73 0.93 0.73 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1302 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.72 0.93 0.72 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1308 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.72 0.93 0.72 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1314 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.72 0.92 0.72 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1320 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.71 0.92 0.71 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1326 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.71 0.92 0.71 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1332 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.71 0.92 0.71 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1338 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.71 0.92 0.71 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1344 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.71 0.92 0.71 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1350 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.70 0.92 0.70 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1356 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.70 0.92 0.70 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1362 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.70 0.92 0.70 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1368 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.70 0.92 0.70 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1374 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.70 0.92 0.70 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1380 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.69 0.91 0.69 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1386 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.69 0.91 0.69 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1392 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.69 0.91 0.69 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1398 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.68 0.91 0.68 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1404 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.68 0.91 0.68 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1410 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.68 0.91 0.68 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1416 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.68 0.91 0.68 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1422 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.68 0.91 0.68 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1428 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.67 0.91 0.67 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1434 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.67 0.91 0.67 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1440 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.67 0.91 0.67 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1446 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.66 0.91 0.66 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1452 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.66 0.91 0.66 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1458 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.66 0.91 0.66 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1464 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.66 0.91 0.66 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1470 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.65 0.91 0.65 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1476 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.65 0.91 0.65 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1482 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.65 0.91 0.65 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1488 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.65 0.90 0.65 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1494 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.64 0.90 0.64 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1500 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.64 0.90 0.64 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1506 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.64 0.90 0.64 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1512 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.64 0.90 0.64 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1518 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.63 0.90 0.63 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1524 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.63 0.90 0.63 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1530 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.63 0.90 0.63 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1536 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.62 0.90 0.62 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1542 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.62 0.90 0.62 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+gsave
+1548 1258 moveto
+6 0 rlineto
+0 88 rlineto
+-6 0 rlineto
+closepath
+0.62 0.90 0.62 setrgbcolor
+fill
+grestore
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1074 1346 moveto
+477 0 rlineto
+0 -85 rlineto
+-477 0 rlineto
+closepath
+stroke
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1104 1258 moveto
+1104 1343 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+1110 1258 moveto
+1110 1343 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+1125 1299 moveto
+/R glyphshow
+1146 1299 moveto
+/F glyphshow
+1164 1299 moveto
+/A glyphshow
+1185 1299 moveto
+/zero glyphshow
+1203 1299 moveto
+/zero glyphshow
+1221 1299 moveto
+/zero glyphshow
+1239 1299 moveto
+/two glyphshow
+1257 1299 moveto
+/space glyphshow
+1266 1299 moveto
+/hyphen glyphshow
+1275 1299 moveto
+/space glyphshow
+1284 1299 moveto
+%%glyph 002a
+/LiberationSans-Bold findfont dup
+/Private get begin
+/CharStrings get begin
+/G 173 RD
+dfff000006390df966f76715d88bd596
+d3a208d3a1c3a7b2ae088bf75705fbec
+8b058bf76e05f8fa8b058bfc9a05403e
+2a4ffb0b6008fb0c60fb1276fb178a08
+fb798cfb45cafb0ff71308fb0ff7134d
+f7488bf77d088bf77cc9f746f710f710
+08f710f70ff746c9f77d8b08f7df8bf7
+66fb0ee5fb8908fba439056ed25dc14c
+b0084cb0429d368b08fb1f8b22614337
+08433767fb0c8bfb31088bfb33b0fb0f
+d63408d534f35ff71b8b08090e
+ND
+end end
+/G glyphshow
+1308 1299 moveto
+/e glyphshow
+1326 1299 moveto
+/r glyphshow
+1338 1299 moveto
+/i glyphshow
+1347 1299 moveto
+/r glyphshow
+1359 1299 moveto
+/space glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Bold findfont
+[29 0 0 -29 0 0]
+makefont setfont
+1125 1331 moveto
+/m glyphshow
+1152 1331 moveto
+/a glyphshow
+1170 1331 moveto
+/n glyphshow
+1188 1331 moveto
+/u glyphshow
+1206 1331 moveto
+/t glyphshow
+1215 1331 moveto
+/e glyphshow
+1233 1331 moveto
+/n glyphshow
+1251 1331 moveto
+/ccedilla glyphshow
+1269 1331 moveto
+/atilde glyphshow
+1287 1331 moveto
+/o glyphshow
+0.00 0.00 0.00 setrgbcolor
+/LiberationSans-Italic findfont
+[29 0 0 -29 0 0]
+makefont setfont
+1182 1386 moveto
+/parenleft glyphshow
+1191 1386 moveto
+/f glyphshow
+1200 1386 moveto
+/r glyphshow
+1209 1386 moveto
+/o glyphshow
+1227 1386 moveto
+/m glyphshow
+1251 1386 moveto
+/space glyphshow
+1260 1386 moveto
+%%glyph 0030
+/LiberationSans-Italic findfont dup
+/Private get begin
+/CharStrings get begin
+/M 126 RD
+caff000006aa0dff000004ae8b15f748
+fa3405a3f70fa1ef9ed8084efb125b2e
+674e08fcb8fe4805fb108b05fb4dfa48
+05879e7de974f73b088563814d7d3608
+7d3648fbeffb0bfcf508fb3e8b05f7a5
+ff0000058105f7808b05f751fe650590
+7196479bfb0308f3f76905f8bdfa5d05
+f7948b05fba5fffffffa7f05090e
+ND
+end end
+/M glyphshow
+1284 1386 moveto
+%%glyph 0044
+/LiberationSans-Italic findfont dup
+/Private get begin
+/CharStrings get begin
+/a 267 RD
+b9ff000004730dfa0581154d8c5e976f
+a5086ea47db18bbe0890cb05858b0554
+375150506a08506a437a378a082e8c3f
+a651c30850c36ed28be2088bf70fb7e9
+e4ca08e3caf721acf7558e08f77c8e05
+98cc91b68b9e088bc879b868a80868a8
+5a994c8b083c8b4f7d626f08626e6e60
+795108fb46a805a9edbfd2d6b808d5b7
+efa1f7118b08f7068be570ce5608cd56
+ac438b31088b6085577e4d0841fc0e05
+846b876e8b70088b5aa673c18b089d8b
+9f8da190087dfb04055f816086628a08
+09fb0af8b615fb5b87053c894c845e7f
+085e7e687c727808727877737d6e087c
+6e84678b62088b599b62ac6c08ab6cb5
+7bbe8b08cc8bc599bfa708bfa6b6afad
+b808adb8a1bb96be08090e
+ND
+end end
+/a glyphshow
+1302 1386 moveto
+%%glyph 0051
+/LiberationSans-Italic findfont dup
+/Private get begin
+/CharStrings get begin
+/n 131 RD
+adff000004730df93f8b15f712f91905
+97c691bd8bb4088bf7034fc3fb0b8b08
+378b416b4b4b084b4b603476fb0108fb
+0afcf205fb488b05f73af9e70598ca98
+d898e608f73e8b058b848871845f0884
+5e85678670088e8b05c2d8c3c0c3a908
+c2a8cd9ad88b08ee8bd573bd5a08bc5a
+a4458b2f088b6084557d4808fb13fd21
+05090e
+ND
+end end
+/n glyphshow
+1320 1386 moveto
+/u glyphshow
+1338 1386 moveto
+%%glyph 0057
+/LiberationSans-Italic findfont dup
+/Private get begin
+/CharStrings get begin
+/t 109 RD
+e8f8cd0df74a7715528c5f9c6bac086a
+ad7bb88bc3088bb090b695bd08f712f9
+2305fb118b05a5f71705f7138b05f4f7
+8605f70c8b055cfb8605f75c8b0571fb
+1705fb5c8b05fb11fd19058363876b8b
+74088b50a96ec78b08a78bac90b29408
+78fb1905497c51835a8a08090e
+ND
+end end
+/t glyphshow
+1347 1386 moveto
+%%glyph 0048
+/LiberationSans-Italic findfont dup
+/Private get begin
+/CharStrings get begin
+/e 166 RD
+d0ff000004730df74ff88b1587748865
+8957088b32a147b85c08b75cce73e48b
+08cc8bc59bc0ab08c0abb4b7a8c208f7
+1e4c055a344e4b40630840633078208a
+08fb1a8c23af41d60840d566f38bf71b
+088bf71aa3f70cbaf608baf5cedee1c6
+08e1c6eca8f68b08f71d8bf569d74608
+d746b12a8bfb11088b4583477b480809
+fb33f71e158fd3058bde76ca60b70860
+b74da13a8b08328b406f4e52084e5260
+3a722208090e
+ND
+end end
+/e glyphshow
+1365 1386 moveto
+/n glyphshow
+1383 1386 moveto
+%%glyph 00a9
+/LiberationSans-Italic findfont dup
+/Private get begin
+/CharStrings get begin
+/ccedilla 219 RD
+cefa940df826f70e15f71d8bebd8c3f7
+2d08f7305a053afb6bfb2920fb6f8a08
+fb148c29ae46d40846d469f18bf71708
+8bf719a3f710bcf70708bbf707cbdfdb
+c208dac1eda6f7088b08f7058be46fcd
+5208cc52af3e922808fb45720587cc77
+bd67ae0867ae5b9c4e8b08378b477557
+5e08575e63436e29086e297d2a8b2c08
+8bfb46d432f7258b08097afb6e15c188
+b47ea67308a673986b8b63088bfb1426
+4bfb5e8a086a8c678d668f08a0e605ab
+88a889a68a08c88cb692a49a08a49a97
+a18ba8088bbc63a33c8a086e8c778a82
+8908f0f74205f68b05090e
+ND
+end end
+/ccedilla glyphshow
+1398 1386 moveto
+%%glyph 00a5
+/LiberationSans-Italic findfont dup
+/Private get begin
+/CharStrings get begin
+/atilde 383 RD
+b9ff000004730dfa0b81154d8c5e976f
+a5086ea47db18bbe0890cb05858b0554
+375150506a08506a437a378a082e8c3f
+a651c30850c36ed28be2088bf70fb7e9
+e4ca08e3caf721acf7558e08f77c8e05
+98cc91b68b9e088bc879b868a80868a8
+5a994c8b083c8b4f7d626f08626e6e60
+795108fb46a805a9edbfd2d6b808d5b7
+efa1f7118b08f7068be570ce5608cd56
+ac438b31088b6085577e4d0841fc0e05
+846b876e8b70088b5aa673c18b089d8b
+9f8da190087dfb04055f816086628a08
+09fb0af8b615fb5b87053c894c845e7f
+085e7e687c727808727877737d6e087c
+6e84678b62088b599b62ac6c08ab6cb5
+7bbe8b08cc8bc599bfa708bfa6b6afad
+b808adb8a1bb96be0809c2f9aa156f8b
+709172980872977399749a08749a7498
+76980876977691768b08488b5c636f3c
+08318b05aaf0afd1b4b208b3b2bb9ec2
+8b08a88ba785a47f08a47ea47ea27c08
+a27ca07da07f08a07e9f859f8b08ce8b
+bab3a6da08e78b0574427456766a0876
+6971706d78086d786781628b08090e
+ND
+end end
+/atilde glyphshow
+1416 1386 moveto
+/o glyphshow
+1434 1386 moveto
+/parenright glyphshow
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+2088 1231 moveto
+2088 1111 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+1 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+1308 1091 moveto
+1311 1258 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+/Courier findfont 40 scalefont setfont /LiberationSans-Italic undefinefont
+/Courier findfont 40 scalefont setfont /LiberationSans-Bold undefinefont
+25 dict begin
+ /FontName /LiberationSans def
+ /Encoding 256 array 0 1 255{1 index exch /.notdef put} for def
+ /PaintType 0 def
+ /FontMatrix [1 2048 div 0 0 1 2048 div 0 0] def
+ /FontBBox [-1114 -621 2666 2007] def
+ /FontType 1 def
+ /Private 7 dict begin
+  /RD {string currentfile exch readhexstring pop} def
+  /ND {def} def
+  /NP {put} def
+  /MinFeature {16 16} def
+  /BlueValues [] def
+  /password 5839 def
+  /lenIV -1 def
+ currentdict end def
+ currentdict dup /Private get begin
+  /CharStrings 256 dict begin
+   /.notdef 4 RD 8b8b0d0e ND
+  currentdict end put
+ end
+currentdict end dup /FontName get exch definefont pop
+/LiberationSans findfont
+[33 0 0 -33 0 0]
+makefont setfont
+0 24 moveto
+%%glyph 0027
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/D 139 RD
+f73cff000005c70dff000004bdf96315
+8bfb256ffb1352fb010852fb013b3723
+51082351fb0c6efb1c8b08fca38b058b
+ff0000058105f8668b05f7838bf74c4f
+f716fb0b08f715fb0cccfb3e8bfb7108
+09fb548b158bf7435bf7192ce7082be6
+fb1fb9fb498b08fba38b058bfee305f7
+ce8b05f28be6a2dab808d9b8c7cdb5e0
+08b5e0a0f08bf70808090e
+ND
+end end
+/D glyphshow
+%%glyph 004c
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/i 47 RD
+f71df85b0d8bff00000520158bf74005
+f7488b058bfb400509fb48fffffffae0
+158bface05f7488b058bfece05090e
+ND
+end end
+/i glyphshow
+%%glyph 0044
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/a 245 RD
+e2ff000004730df7db7715fb018c3aa7
+54c40854c470da8bef088bf704b0e1d5
+c708d4c7f70babf7388f08f7878f058b
+c6058be378ca66b10866b1509e3b8b08
+3a8b517d6670086670755f844f08fb50
+9c05aaf757f724ecf7978b08f71c8bf1
+6cd04d08d04cad318bfb0a088bfc6605
+8b5692639970089970a67db28b089c8b
+9f8da190088bfb04055e815c865c8a08
+488c5b9c6dae086cae7ac187d608858b
+055d3856514e69084e69407a348a0809
+b4f71b15cd8bc69abea908bea9b4b4a9
+c008a8bf9ac18bc2088be405fb598705
+368a4b82607b085f7b6972746a08746a
+7f5f8b55088b509b5eab6b08aa6bb87b
+c68b08090e
+ND
+end end
+/a glyphshow
+%%glyph 004a
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/g 248 RD
+e1ff000004730df862fc3d15fb0a8c2d
+a245b90845ba5ecc77e008f749a50597
+5aa664b47008b470c07ece8a08f7478c
+e5f48bf765088bf74205898b0569465c
+575068085068457a3c8a08fb198c2ab6
+4de3084ce36cf71e8bf751088bf753ad
+f722cee608cee6f0b8f71d8b08d88bcd
+7ac46808c368b659aa4a088d8b058b9f
+8cae8ebc088ebc8da68e9008f73f8b05
+876789408bfb05088bfdcf058bfbc3fb
+2bfb2cfbc28a0809f7a6fa5a158be37f
+d773cb0873ca69bc60ad085fac599c54
+8b082f8b486a614808614876fb008bfb
+29088bfb289f21b24a08b24acf6bea8b
+08c48bbd9cb7ac08b7acadbba3ca08a3
+c997d58be108090e
+ND
+end end
+/g glyphshow
+%%glyph 0055
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/r 87 RD
+f71cf93e0d918b158bf9d2058bd789df
+87e708f73e8b0590fb0f8e428b72088f
+8b05a8e8accab0ad08b0adc09ccf8b08
+a38ba388a484088bfb390573926b8e63
+8b08408b526b644b08644a772f8bfb0c
+088bfcc805090e
+ND
+end end
+/r glyphshow
+/a glyphshow
+%%glyph 0050
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/m 199 RD
+f71cff000006aa0df90c8b158bf94205
+8bf47dd36eb3086eb3589f408b083e8b
+4f6e5e50085e5075398b20088bfd0705
+fb478b058bf9e7058bf71289d887a708
+f73e8b058c888b828c7c088c7c8c7b8c
+78088c788c678c56088e8b05b2d8b7c0
+bda908bda9c89ad38b08dd8bcc7bbb6a
+08ba6aac579e44088e8b05b0d4b9bfc0
+ab08c0abcb9bd68b08f7018bdb6dbd50
+08bc50a4298bfb1b088bfd6505fb468b
+058bf942058bf47dd36eb3086eb3589f
+408b083c8b4e6e6051085f5075388b20
+088bfd0705090e
+ND
+end end
+/m glyphshow
+%%glyph 001d
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/colon 41 RD
+f74ff8cd0d8bf9ff158bf76305f7578b
+058bfb630509fb57fdff158bf76305f7
+578b058bfb6305090e
+ND
+end end
+/colon glyphshow
+%%glyph 0035
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/R 124 RD
+f73cff000005c70dfa788b15fc02f8dd
+05fc4b8b058bfcdd05fb538b058bff00
+00058105f92b8b05f7338bf70e68e244
+08e144b6288bfb13088b226d334e4408
+4e44365e207808f824fcf30509fb8cfa
+80158bdd6fca54b60853b63ba0228b08
+fc598b058bfc9c05f8618b05f08bd9a3
+c2ba08c2baa6cc8be008090e
+ND
+end end
+/R glyphshow
+%%glyph 0048
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/e 142 RD
+e2ff000004730df751f88b158bfb10a5
+2bbe4808be48d669ee8b08d98bca9bba
+aa08baaaaab39cbb08f7325e054afb3f
+fb2737fb798a08fb348cfb0eba38ea08
+37ea61f7228bf750088bf747b5f71ddf
+ea08deeaf70cbbf72f8b08f7d28bf733
+fb548bfc13088b730509fb4ef71e1581
+f7066ede5bc0085bbf46a5318b08348b
+466e58510858506f3b872508090e
+ND
+end end
+/e glyphshow
+%%glyph 0054
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/q 189 RD
+e1ff000004730df8227715fb1d8c26b8
+4be8084be86bf71f8bf74d088bf80df7
+19f751f79d8b08dd8bcf7dc06e08c06e
+b85aaf48088d8b058b9f8cae8ebc088e
+bc8da58e8e08f7418b05866489288bfb
+31088bfffffffb3605fb488b058bf84b
+058ff73805898b0567445f58566d0856
+6d477c368a0809f7e5f8d2158bf72174
+f35dcf085dcf42ad268b08308b496963
+4708634777fb008bfb29088bfb2b9ffb
+01b44a08b34acc6ae48b08f18bd5afb9
+d408b9d4a2f7008bf72508090e
+ND
+end end
+/q glyphshow
+%%glyph 0058
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/u 136 RD
+f719ff000004730df749face158bfd42
+058b4492539964089964a16eaa7a08aa
+7ab882c68b08e28bcfa9bdc608bdc6a4
+de8bf4088bf90705f7488b058bfde705
+8bfb128d3e8f6f08fb3e8b058a8e8b94
+8a9a088a9a8b9c8a9e088a9e89ae8ac0
+08888b0562405b57556c08546c487c3a
+8a08fb0b8c35a854c60854c66fec8bf7
+1c088bf96505090e
+ND
+end end
+/u glyphshow
+/i glyphshow
+%%glyph 0056
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/s 224 RD
+c4fa940dfa11f7bf158b25653c3e5408
+3e54fb0070fb1f8a08fb1b8c24a042b8
+0842b75bd075e908f733aa059a51ab61
+bb7008bb70ce7de08b08e68bce99b6a7
+08b5a7a0b58bc3088bb67cad6ea6086e
+a65ba14a9c08fb15ad0524a641a560a5
+085fa469aa72b00872b07fb88bc0088b
+eeaed6d2bf08d1bef1a5f71b8b08f70b
+8bea76d26108d161b7489e2e08fb3677
+0581bb70b060a5085fa45098428b083a
+8b4f7f647208647278668b59088b6c93
+729b77089b77a37aaa7d08aa7dcd78f0
+7208ea73d075b57708b576ac75a47208
+a3729e6f986b08986a92668b6208090e
+ND
+end end
+/s glyphshow
+/i glyphshow
+%%glyph 0057
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/t 91 RD
+aaf8cd0df89f9315507c4e834d8a08fb
+248c43dc8bf737088bf96605fb118b05
+8bf71705f7188b05c0f78605f70c8b05
+8bfb8605f75c8b058bfb1705fb5c8b05
+8bfd3f058b5794679c76089c76a880b5
+8b08a38bae90b89408090e
+ND
+end end
+/t glyphshow
+%%glyph 0052
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/o 148 RD
+e1ff000004730dfa5bf8b2158bfb5161
+fb21382e08382efb0d5efb338a08fb32
+8cfb0bba3aec083aeb63f71f8bf74a08
+8bf809f736f74ff7d78b08f7398bf70e
+5ed93008d930b2fb228bfb530809fb51
+8b158bf72975f7015fcf085ece41ad22
+8b08228b3f695c46085c4673fb008bfb
+27088bfb23a220ba4408b943d467ee8b
+08f7008bd8aebad008b9d0a2f7018bf7
+2708090e
+ND
+end end
+/o glyphshow
+/s glyphshow
+%%glyph 0003
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/space 5 RD
+8bf8cd0d0e
+ND
+end end
+/space glyphshow
+%%glyph 0047
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/d 187 RD
+e1ff000004730df973f742156a465f59
+546d08546e467c3a8a08fb1d8c27b84b
+e7084ae76bf71f8bf74f088bf80df719
+f751f79d8b08dd8bcf7cc26d08c26db7
+5bac4a088d8b0589f70d058bf85505f7
+488b058bfffffffb13058bfb058d418f
+6708fb408b05899689a389b20888b28a
+ac8ba70809fcbaf804158bfb2b9ffb01
+b34a08b34acc6ae58b08f18bd5aeb9d2
+08b9d2a2f7018bf729088bf72374f45d
+ce085dce42ac268b08308b4a6a634808
+624877fb018bfb2b08090e
+ND
+end end
+/d glyphshow
+/e glyphshow
+/space glyphshow
+%%glyph 0051
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/n 135 RD
+f71cff000004730df9458b158bf94205
+8bd284c37db2087db275a86c9c086c9c
+5e94508b08348b476d59500859507238
+8b22088bfd0705fb488b058bf9e7058b
+f71289d887a708f73e8b058c888b828c
+7c088c7c8c7b8c78088c788c678c5608
+8e8b05b4d6bbc0c2aa08c1aace9adc8b
+08f70b8be26ec25008c250a6298bfb1c
+088bfd6505090e
+ND
+end end
+/n glyphshow
+/e glyphshow
+/g glyphshow
+%%glyph 00b5
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/oacute 174 RD
+e1ff000004730dfa5bf8b2158bfb5161
+fb21382e08382efb0d5efb338a08fb32
+8cfb0bba3aec083aeb63f71f8bf74a08
+8bf809f736f74ff7d78b08f7398bf70e
+5ed93008d930b2fb228bfb530809fb51
+8b158bf72975f7015fcf085ece41ad22
+8b08228b3f695c46085c4673fb008bfb
+27088bfb23a220ba4408b943d467ee8b
+08f7008bd8aebad008b9d0a2f7018bf7
+270809fc45f927158b9f05f76df7b305
+f7638b058b6e05fbdefbaa05090e
+ND
+end end
+/oacute glyphshow
+%%glyph 0046
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/c 143 RD
+e2fa940df750f8b6158bfb24a220b846
+08b846d068e68b08cb8bc19cb6ae08b6
+aea5c095d308f74a7f057d235f38404d
+08404d2d6dfb078a08fb2b8cfb08ba3c
+eb083bea63f7208bf74b088bf74ab3f7
+1fdbeb08dbeaf707bbf7298b08f7038b
+e76ed45208d452b83c9e2608fb4d7d05
+82c773bb65ae0865ae559d458b082c8b
+466b604c08604c76208bfb2a08090e
+ND
+end end
+/c glyphshow
+/i glyphshow
+/o glyphshow
+0.00 0.00 0.00 setrgbcolor
+3198 24 moveto
+%%glyph 0024
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/A 94 RD
+8fff000005560dff0000048b8b15fb35
+f83005fd168b05fb36fc3005fb5a8b05
+f8d3ff0000058105f76d8b05f8caffff
+fffa7f0509fd39ff000004f115826f05
+7a5473446a3408fb48fc6305f8a38b05
+fb49f8650578b979bf78c508090e
+ND
+end end
+/A glyphshow
+/u glyphshow
+/t glyphshow
+%%glyph 004b
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/h 129 RD
+f722ff000004730df743fa1515b2d2b9
+bfc2ac08c1acd09bde8b08f7098be26e
+c35108c250a7298bfb1d088bfd6505fb
+498b058bf942058bd784c47db0087db0
+74a66b9c086b9c5f94528b08368b486e
+5850085850713c8b28088bfd1205fb48
+8b058bff000005cc05f7488b058bfc16
+058b628a6189600888608a728a840809
+0e
+ND
+end end
+/h glyphshow
+/o glyphshow
+/r glyphshow
+/colon glyphshow
+/e glyphshow
+/i glyphshow
+/t glyphshow
+/s glyphshow
+0.00 0.00 0.00 setrgbcolor
+0 2325 moveto
+%%glyph 0033
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/P 108 RD
+f73cff000005560dfad6fa6d158bfb19
+6021343c08343cfb0b64fb298b08fc32
+8b058bfcb905fb538b058bff00000581
+05f8e58b05f7328bf70e66e24108e241
+b6238bfb1b0809fb5489158bf74afb01
+e6fb6f8b08fc0f8b058bfcc005f8178b
+05f7698bf6e98bf75108090e
+ND
+end end
+/P glyphshow
+/r glyphshow
+/i glyphshow
+/n glyphshow
+/t glyphshow
+/e glyphshow
+/d glyphshow
+/colon glyphshow
+%%glyph 0015
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/two 168 RD
+f2ff000004730d8b8b158bf71305add9
+b5d0bcc708bcc6bec1c1bc08c1bbc1b8
+c0b408c0b4bab5b6b408b6b4adb7a6b8
+08a5b898bf8bc4088bd874c75eb6085e
+b64ca03a8b083e8b4c765a620859616e
+50824008fb4c9c0598f705bbe4dece08
+ddcef5acf7158b08f7228bf7016ad848
+08d748b12b8bfb0f088b547f55725508
+725565555a55085a552c37fb1ffb0508
+3e4c4e535e59085e586a5b775c08f973
+8b058bfb2d05090e
+ND
+end end
+/two glyphshow
+%%glyph 0016
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/three 210 RD
+d9ff000004730dfa5ff819158bfb1662
+263844083844fb0a68fb2d8a08fb238c
+fb05aa36cc0836cb58ea7bf71208f74e
+9c05a3fb3bf138f7498b08e68bd2a1bf
+b808beb8a5cd8be3088bd86ec750b608
+50b635a0fb038b08258b058bf73005ed
+8b05ee8bd7a1c2b608c1b6a6c68bd708
+8bd675c75fb7085eb649a1348b083c8b
+4b775a62085a626e52834108fb499905
+98f707bbe5decc08ddccf5abf7158b08
+f7218bf7026ada4a08d949b22f8bfb09
+088b317242595308585242652b77088b
+8705f480dd67c65008c650a8408b3108
+090e
+ND
+end end
+/three glyphshow
+%%glyph 0012
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/slash 29 RD
+8bf8cd0d8b7715f82fff000005e005f7
+328b05fc2bfffffffa2005090e
+ND
+end end
+/slash glyphshow
+%%glyph 001a
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/seven 86 RD
+f4ff000004730dfa37ff000004ef15fb
+24fb7025fb4050fb110850fb115efb0f
+6efb0d086dfb0d7cfb128bfb1608fb50
+8b058bf748b1f752d8f75b08d7f75bf7
+13f779f747f79708fd898b058bf72d05
+fa378b05090e
+ND
+end end
+/seven glyphshow
+/slash glyphshow
+/two glyphshow
+%%glyph 0013
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/zero 165 RD
+dbff000004730dfa67f955158bfb7f62
+fb4838fb100838fb10fb0f4efb368a08
+fb368cfb0ec83af70f083af70f62f748
+8bf781088bf786b3f749daf70d08daf7
+0df710c7f73f8b08f73a8bf70f4edafb
+0e08dafb0eb2fb498bfb830809fb4b8b
+158bf75f74f7285ce6085ce63db9fb00
+8b08fb038b3c5e5b31085a3173fb288b
+fb62088bfb5ca4fb26bc2e08bc2ed85d
+f68b08f58bd9babcea08bceaa4f7258b
+f75808090e
+ND
+end end
+/zero glyphshow
+%%glyph 0014
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/one 58 RD
+f730ff000004730d8b8b158bf72d05f7
+fb8b058bfad005fbd2fb77058bf73e05
+f7e1f77905f73a8b058bfffffffb1805
+f7eb8b058bfb2d05090e
+ND
+end end
+/one glyphshow
+%%glyph 001b
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/eight 256 RD
+e4ff000004730dfa55f81d158bfb1662
+263842083842fb0a68fb2f8a08fb2b8c
+fb09ae36d20836d260f18bf717088be7
+a5d8c0ca08c0caceb1dd98088b8f053e
+9d4fb25fc7085ec775d18bdc088bf6b3
+e2dcce08dbcef700acf71b8b08f71f8b
+f7016adc4a08db4ab3328bfb03088b3a
+75455e4f085e4f4e653e7c088b8705e5
+7cd165bd4e08bd4da43e8b2e0809fb72
+f92c158bf73334dbfb438b08368b4b77
+5f63085e63754f8b3c088b3aa24eb961
+08b860cc76de8b08e08bcb9fb8b208b7
+b2a1ca8be20809aefd1b158be271cd57
+b80857b742a12d8b08308b4373585c08
+585b71498b38088bfb56ee2af75a8b08
+ed8bd4a3bbba08bbbaa3d58bf208090e
+ND
+end end
+/eight glyphshow
+/space glyphshow
+/one glyphshow
+%%glyph 0019
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/six 204 RD
+f3ff000004730dfa45f861158bfb2963
+fb093a35083a35fb0361fb228a08fb33
+8cfb0dc537f70a0837f70a61f7408bf7
+75088bf788b7f74fe2f71708e2f717f7
+11ccf7358b08f7698bf71a2bc2fb5308
+fb406c0568f7073dc4fb0b8b08248b3c
+5b532c08522b6ffb1f8bfb4908acc8b9
+b9c6ab08c6aacf9bd88b08f7168bf262
+d83a08d73ab1fb028bfb1d0809fb4b83
+158bf172da59c20859c245a7328b0837
+8b4773585a08575a71478b35088bfb01
+a632c14608c046d068df8b08e28bcfa8
+bcc608bcc5a4db8bf108090e
+ND
+end end
+/six glyphshow
+/colon glyphshow
+%%glyph 0017
+/LiberationSans findfont dup
+/Private get begin
+/CharStrings get begin
+/four 90 RD
+baff000004730df9d6f7d3158bfbd305
+fb3e8b058bf7d305fd2c8b058bf72005
+f919fa4a05f7518b058bfe4805f75a8b
+058bfb220509fc04fa0b158a8781797a
+6c087a6c7e75827e08fbfdfca8055541
+057b7705f8868b05090e
+ND
+end end
+/four glyphshow
+/seven glyphshow
+/colon glyphshow
+/three glyphshow
+/six glyphshow
+0.00 0.00 0.00 setrgbcolor
+3252 2325 moveto
+/P glyphshow
+/a glyphshow
+/g glyphshow
+/e glyphshow
+/space glyphshow
+/one glyphshow
+0.00 0.00 0.00 setrgbcolor
+0 24 moveto
+/D glyphshow
+/i glyphshow
+/a glyphshow
+/g glyphshow
+/r glyphshow
+/a glyphshow
+/m glyphshow
+/colon glyphshow
+/R glyphshow
+/e glyphshow
+/q glyphshow
+/u glyphshow
+/i glyphshow
+/s glyphshow
+/i glyphshow
+/t glyphshow
+/o glyphshow
+/s glyphshow
+/space glyphshow
+/d glyphshow
+/e glyphshow
+/space glyphshow
+/n glyphshow
+/e glyphshow
+/g glyphshow
+/oacute glyphshow
+/c glyphshow
+/i glyphshow
+/o glyphshow
+0.00 0.00 0.00 setrgbcolor
+3198 24 moveto
+/A glyphshow
+/u glyphshow
+/t glyphshow
+/h glyphshow
+/o glyphshow
+/r glyphshow
+/colon glyphshow
+/e glyphshow
+/i glyphshow
+/t glyphshow
+/s glyphshow
+0.00 0.00 0.00 setrgbcolor
+0 setlinewidth 1 setlinejoin 1 setlinecap
+[] 0 setdash
+0 36 moveto
+3354 36 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+3354 36 moveto
+3354 2292 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+3354 2292 moveto
+0 2292 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+0 2292 moveto
+0 36 lineto
+stroke
+0.00 0.00 0.00 setrgbcolor
+0 2325 moveto
+/P glyphshow
+/r glyphshow
+/i glyphshow
+/n glyphshow
+/t glyphshow
+/e glyphshow
+/d glyphshow
+/colon glyphshow
+/two glyphshow
+/three glyphshow
+/slash glyphshow
+/seven glyphshow
+/slash glyphshow
+/two glyphshow
+/zero glyphshow
+/one glyphshow
+/eight glyphshow
+/space glyphshow
+/one glyphshow
+/six glyphshow
+/colon glyphshow
+/four glyphshow
+/seven glyphshow
+/colon glyphshow
+/three glyphshow
+/six glyphshow
+0.00 0.00 0.00 setrgbcolor
+3252 2325 moveto
+/P glyphshow
+/a glyphshow
+/g glyphshow
+/e glyphshow
+/space glyphshow
+/one glyphshow
+pgsave restore
+showpage
+%%Trailer
+%%Pages: 1
+%%EOF
